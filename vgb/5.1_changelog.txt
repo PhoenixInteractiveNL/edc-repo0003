@@ -1,0 +1,10 @@
+  * Added "Nearest Neighbor" option to disable linear interpolation. 
+  * Added "Force 4:3 Screen" option to VGB-Windows. 
+  * Fixed "Hit MIDI Drums" option in VGB-Windows. 
+  * Computing effective waveform power when simulating samples via MIDI. 
+  * Fixed 44kHz sound hiccups in VGB-Windows. 
+  * VGB-Windows will not overwrite last .GB file name with .PAL or .STA names. 
+  * Keys [1]-[4] will toggle individual sound channels in VGB-Windows. 
+  * Key [0] will toggle all sound channels in VGB-Windows. 
+  * Added -4x3 command line option to VGB-Unix. 
+  * Updated VGB-Windows icon.

@@ -1,0 +1,17 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-11-28 08:22:24 ....A        18344        13534  documentation\gpl.txt
+2013-04-08 07:52:03 ....A         1626               documentation\License.txt
+2010-11-28 08:22:24 ....A         1612               documentation\SFMTLicense.txt
+2012-11-04 19:30:43 ....A          605               documentation\TODO.txt
+2010-11-28 08:22:24 ....A         1961               documentation\unRarLicense.txt
+2010-11-28 08:22:24 ....A         1114               documentation\VBArr-V21-changelog.txt
+2010-11-28 08:22:24 ....A         2824               documentation\VBArr-V22-changelog.txt
+2010-11-28 08:22:24 ....A         2714               documentation\VBArr-V23-changelog.txt
+2011-10-06 16:47:13 ....A        13427               documentation\VBArr-V23.5-changelog.txt
+2017-03-05 12:53:19 ....A      4285952      1382996  VBA-rr-svn480+3.exe
+2013-04-08 07:13:14 ....A       167936               lua5.1.dll
+2013-04-08 07:13:28 ....A        11264               lua51.dll
+2017-03-25 09:02:22 D....            0            0  documentation
+------------------- ----- ------------ ------------  ------------------------
+2017-03-25 09:02:22            4509379      1396530  12 files, 1 folders

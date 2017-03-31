@@ -1,0 +1,36 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-02-03 07:39:24 ....A         7553       223353  README.html
+2016-02-03 07:39:24 ....A        23247               CHANGES.txt
+2016-02-03 07:39:24 ....A        17099               LICENSE.txt
+2015-12-19 08:25:08 ....A          177               shaders\agb001.shader\manifest.ini
+2015-12-19 08:25:08 ....A          540               shaders\ags001.shader\manifest.ini
+2016-01-23 12:35:56 ....A          139               shaders\pixelate.shader\manifest.ini
+2016-01-24 14:14:33 ....A          544               shaders\xbr.shader\manifest.ini
+2015-05-28 09:25:10 ....A        26940               third-party\LICENSE.blip-buf
+2015-12-21 05:19:09 ....A       884724               nointro.dat
+2015-05-28 09:25:10 ....A        18092               third-party\LICENSE.ffmpeg
+2015-12-19 08:25:08 ....A          659               shaders\agb001.shader\agb001.fs
+2015-12-19 08:25:08 ....A          841               shaders\ags001.shader\ags001-light.fs
+2015-12-19 08:25:08 ....A          612               shaders\ags001.shader\ags001.fs
+2016-01-24 14:14:33 ....A         9019               shaders\xbr.shader\xbr.fs
+2015-05-28 09:25:10 ....A        12446               third-party\LICENSE.imagemagick
+2015-05-28 09:25:10 ....A         1569               third-party\LICENSE.inih
+2015-05-28 09:25:10 ....A        25284               third-party\LICENSE.lame
+2015-05-28 09:25:10 ....A         1537               third-party\LICENSE.libvpx
+2015-05-28 09:25:10 ....A         1928               third-party\LICENSE.opus
+2015-05-28 09:25:10 ....A        26530               third-party\LICENSE.qt5
+2015-05-28 09:25:10 ....A          930               third-party\LICENSE.sdl2
+2016-01-24 14:14:34 ....A         2161               shaders\xbr.shader\xbr.vs
+2015-05-28 09:25:10 ....A        17992               third-party\LICENSE.x264
+2015-05-28 09:25:10 ....A        17987               third-party\LICENSE.xvid
+2016-02-03 07:38:26 ....A     17112080      9668739  mGBA.exe
+2016-02-03 07:38:25 ....A     14596608               libmgba.dll
+2017-03-31 19:21:23 D....            0            0  third-party
+2017-03-31 19:21:23 D....            0            0  shaders\xbr.shader
+2017-03-31 19:21:23 D....            0            0  shaders\pixelate.shader
+2017-03-31 19:21:23 D....            0            0  shaders\ags001.shader
+2017-03-31 19:21:23 D....            0            0  shaders\agb001.shader
+2017-03-31 19:21:23 D....            0            0  shaders
+------------------- ----- ------------ ------------  ------------------------
+2017-03-31 19:21:23           32807238      9892092  26 files, 6 folders

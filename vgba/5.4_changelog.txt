@@ -1,0 +1,7 @@
+New in This Version
+  * Added "Interpolate Video | Nearest Neighbor" option to VGBA-Windows. 
+  * Added "Force 4:3 Screen" option to VGBA-Windows. 
+  * Added -4x3 command line option to VGBA-Unix. 
+  * VGBA-Windows will not overwrite last software file name with other names. 
+  * Fixed file associations on Windows 8+. 
+  * Updated VGBA-Windows application icon.
