@@ -1,0 +1,18 @@
+Version 0.43
+Added ZX81/ASCII character view in TZX file viewer
+Added ability to save screenshots as .bmp files
+Readded feature to convert a block from wave->TZX, though this only works for
+zx81 style blocks (atm).
+Added ACE 96k Ram Pack
+Fixed bug in Memotech Hi-Res emulation and added Memotech magic button
+Fixed a couple of bugs in Timex graphics modex
+Piters CF interface now appears working :)
+Added Write Protect to Windows formatted drives. Changed default CHS for USB
+connected drives.
+Added ability to write to real hard drives/flash cards under divIDE/ZXCF/etc.
+Rearranged the Hardware dialogue.  Added Jupiter ACE CF interface.
+GDI is back!  You can now select which render method looks/works best for your
+system.  Reduced the size of the border slightly in "small border".  The new
+size fits a PC screen better in Fullscreen mode. Fixed a bug where you couldn't
+load files from ZXCF on a 48k machine.  Added Multiface and Spectrum SE emulation.
+Fixed 1Mbyte only config on ZXCF interface.

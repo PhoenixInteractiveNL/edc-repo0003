@@ -1,0 +1,92 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-01-23 17:04:02 ....A         2063        73712  DefaultWinKawaksINI.zip
+2001-07-25 02:35:24 ....A         2324               sample_ini_files.zip
+2010-01-06 14:40:08 ....A        21402               faq.txt
+2013-01-14 20:19:06 ....A        67164               whatsnew.txt
+2002-01-30 22:19:44 ....A         2298               defaultkeysCPS.ini
+2001-08-12 04:00:22 ....A         2294               defaultkeysMVS.ini
+2002-01-30 12:55:20 ....A         3239               blend\ddsom.bld
+2002-01-27 22:23:48 ....A          550               blend\ddtod.bld
+2002-01-29 19:57:32 ....A         2442               blend\sfa.bld
+2001-12-28 18:34:00 ....A          651               tracklst\19xx.dat
+2001-12-30 15:50:20 ....A          776               tracklst\avsp.dat
+2001-12-28 18:34:54 ....A          981               tracklst\batcirj.dat
+2001-12-30 00:49:40 ....A          170               tracklst\captcomm.dat
+2001-12-28 18:34:52 ....A         1076               tracklst\csclubj.dat
+2001-12-30 15:46:38 ....A         1270               tracklst\cybotsj.dat
+2001-12-28 18:34:50 ....A         1010               tracklst\ddtod.dat
+2001-12-30 00:54:08 ....A          982               tracklst\dstlk.dat
+2001-12-28 18:34:48 ....A          717               tracklst\ecofghtr.dat
+2001-12-30 00:45:34 ....A           80               tracklst\ffight.dat
+2001-12-28 18:34:46 ....A          477               tracklst\kof94.dat
+2001-12-28 18:34:46 ....A          499               tracklst\kof95.dat
+2001-12-28 18:34:44 ....A          578               tracklst\kof96.dat
+2001-12-28 18:34:44 ....A          846               tracklst\kof97.dat
+2001-12-28 18:34:42 ....A          816               tracklst\kof98.dat
+2001-12-28 18:34:42 ....A          808               tracklst\kof99.dat
+2001-12-30 15:35:56 ....A         1117               tracklst\msh.dat
+2001-12-30 15:53:16 ....A          710               tracklst\mshvsf.dat
+2001-12-30 15:39:34 ....A          737               tracklst\mvsc.dat
+2001-12-30 15:27:52 ....A          180               tracklst\pbobblen.dat
+2001-12-28 18:34:36 ....A          818               tracklst\ringdest.dat
+2001-12-30 00:45:28 ....A          451               tracklst\sf2.dat
+2002-01-03 02:58:54 ....A          451               tracklst\sf2ce.dat
+2001-12-30 15:40:48 ....A          821               tracklst\sfa.dat
+2001-12-28 18:34:30 ....A         1252               tracklst\sfa2.dat
+2001-12-30 15:22:16 ....A         1308               tracklst\sfa3.dat
+2001-12-30 15:23:42 ....A          441               tracklst\sgemf.dat
+2001-12-28 18:34:24 ....A          488               tracklst\spf2t.dat
+2002-01-03 04:14:30 ....A         1327               tracklst\ssf2.dat
+2001-12-28 18:35:00 ....A          555               tracklst\vsav.dat
+2001-12-28 18:35:00 ....A          555               tracklst\vsav2.dat
+2002-01-05 23:21:30 ....A          203               tracklst\wakuwak7.dat
+2001-12-30 15:25:30 ....A          714               tracklst\xmcota.dat
+2001-12-30 15:40:26 ....A          905               tracklst\xmvsf.dat
+2006-09-28 23:28:38 ....A          128               eeprom\pzloop2.epm
+2005-03-02 20:32:08 ....A          128               eeprom\pzloop2j.epm
+2006-08-08 22:36:36 ....A         5953               lang\Arabic.lng
+2001-12-12 04:48:24 ....A         7142               lang\Brazilian Portuguese.lng
+2006-08-08 22:36:56 ....A         6736               lang\Bulgarian.lng
+2006-08-08 22:37:02 ....A         6809               lang\Catalan.lng
+2006-08-08 22:37:08 ....A         6680               lang\Charnego.lng
+2006-08-08 22:37:12 ....A         5607               lang\Chinese(Big5).lng
+2006-08-08 22:37:18 ....A         6124               lang\Chinese(Simp).lng
+2006-08-08 22:37:24 ....A         6352               lang\Czech.lng
+2006-08-08 22:37:28 ....A         6490               lang\Dutch.lng
+2006-08-08 22:36:26 ....A         6155               lang\English.lng
+2006-08-08 22:37:34 ....A         6536               lang\Finnish.lng
+2006-08-08 22:37:38 ....A         7515               lang\French.lng
+2006-08-08 22:37:42 ....A         6548               lang\German.lng
+2006-08-08 22:37:46 ....A         6946               lang\Greek.lng
+2006-08-08 22:37:50 ....A         5665               lang\Hebrew.lng
+2006-08-08 22:37:54 ....A         6837               lang\Italian.lng
+2006-08-08 22:38:02 ....A         6322               lang\Japanese.lng
+2006-08-08 22:38:20 ....A         5888               lang\Korean.lng
+2006-08-08 22:39:50 ....A         6116               lang\L33t.lng
+2006-08-08 22:38:30 ....A         6022               lang\Norwegian.lng
+2006-08-08 22:38:36 ....A         6587               lang\Polish.lng
+2006-08-08 22:38:40 ....A         6427               lang\Portuguese.lng
+2006-08-08 22:38:50 ....A         6661               lang\Russian.lng
+2006-08-08 22:38:54 ....A         6534               lang\Serbian.lng
+2006-08-08 22:39:00 ....A         6939               lang\Spanish.lng
+2006-08-08 22:39:04 ....A         6420               lang\Swedish.lng
+2006-08-08 22:39:10 ....A         6107               lang\Turkish.lng
+2013-01-14 20:10:04 ....A       410189       437077  WinKawaks.exe
+2002-02-13 14:52:38 ....A        32256               kailleraclient.dll
+2017-04-17 23:37:37 D....            0            0  tracklst
+2017-04-17 23:37:37 D....            0            0  sshots
+2017-04-17 23:37:37 D....            0            0  saves
+2017-04-17 23:37:37 D....            0            0  roms\neogeo
+2017-04-17 23:37:37 D....            0            0  roms\cps2
+2017-04-17 23:37:37 D....            0            0  roms\cps1
+2017-04-17 23:37:37 D....            0            0  roms
+2017-04-17 23:37:37 D....            0            0  recinput
+2017-04-17 23:37:37 D....            0            0  lang
+2017-04-17 23:37:37 D....            0            0  ini
+2017-04-17 23:37:37 D....            0            0  eeprom
+2017-04-17 23:37:37 D....            0            0  cheats
+2017-04-17 23:37:37 D....            0            0  capture
+2017-04-17 23:37:37 D....            0            0  blend
+------------------- ----- ------------ ------------  ------------------------
+2017-04-17 23:37:37             745365       510789  74 files, 14 folders

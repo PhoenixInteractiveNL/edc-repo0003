@@ -1,0 +1,3 @@
+Version 0.43a - 01/11/06
+Added support for Piters 8 bit IDE interface.  Added ability to select ROM files
+from other than the ROM directory.

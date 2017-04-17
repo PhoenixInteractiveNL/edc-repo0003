@@ -1,0 +1,5 @@
+v0.302
+ADDED: Default folder for spool files
+
+FIXED: Bug when reverting to default configuration
+FIXED: Keyboard display dialog now allows you to type into SpudACE whilst it's displayed.

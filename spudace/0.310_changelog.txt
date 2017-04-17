@@ -1,0 +1,4 @@
+v0.310
+FIXED: UI should now look sensible independant of your personal setup
+FIXED: Debugger memory is correct dependant on model
+FIXED: More "under the hood" stuff that no-one will notice.

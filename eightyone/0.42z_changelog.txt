@@ -1,0 +1,6 @@
+Version 0.42Z
+Fixed a bug in the DirectX library I was using where the program would
+crash on certain versions of Windows combined with certain versions
+of DirectX (It worked fine with Win98 DX7 & 8 but not Win98 DX9, whereas
+it worked fine on XP using DX9).  The application has now been tested
+by myself using:

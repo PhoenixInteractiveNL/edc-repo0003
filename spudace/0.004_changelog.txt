@@ -1,0 +1,15 @@
+v0.004
+
+First public release
+
+ADDED: Direct3d and DirectDraw rendering options.
+ADDED: Sound adjustment options.
+ADDED: Ability to select memory size.
+ADDED: Accurately manage speed.
+ADDED: Select folders for snapshot and tape files.
+ADDED: Calculator.
+ADDED: Options Dialog.
+ADDED: Load/Save Configuation.
+ADDED: Proper debugger
+ADDED: Logging options
+FIXED: Keyboard routines (selecting certain keys now works correctly).

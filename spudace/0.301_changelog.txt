@@ -1,0 +1,13 @@
+v0.301 (my versioning system is a bit random!!)
+
+ADDED: File spooling.
+ADDED: File spooling speed option.
+ADDED: WAV file saving.
+ADDED: A nice scrolly wavey (sic) graphy thingy, just like EightyOne (now where did get that idea from??)
+ADDED: Tape buttons for the WAV browser.
+ADDED: Display keyboard dialog.
+ADDED: Configuration saves on exit.
+
+FIXED: Sound now plays correctly when changing sound options 
+
+REMOVED: Scanlines option. It'll be back for the next release when I code it properly.

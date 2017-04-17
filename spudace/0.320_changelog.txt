@@ -1,0 +1,2 @@
+v0.320
+Fixed: SpudACE crashed when "Pause emulation when SpudAVE when loses focus" was selected. [Pegaz] 

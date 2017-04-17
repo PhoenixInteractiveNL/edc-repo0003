@@ -1,0 +1,21 @@
+V2.02 (2005-12-12)
+-----
+My compatibility pages have been updated.
+
+- New Features:
+  * Support GB boot ROM (not included)
+- Changes:
+  * In the menu File->Emulation->Simulate startup is replaced by
+    File->Emulation->Boot ROM. Boot ROM can be emulated and simulated for
+    GB and GBC mode, respectively.
+  * [Interal change] Source is ported from C to C++.
+- Bugs Fixed:
+  * Hyper Lode Runner no longer hung.
+  * Warlocked no longer hung.
+  * Colors in Vertical Mess Demo were incorrect. Fixed.
+  * Graphics gliches appeared when showing the Gin & Tonic Trick in Mental
+    Respirator. Fixed.
+  * Graphics in Versatility should be corrupted as in the real GB. Fixed.
+  * When showing the intro video in F-1 Racing Championship, the top few
+    lines should sometimes corrupted as in the real GBC. Fixed.
+  * Fixed a crash bug when changing palettes with no ROM loaded in WinXP.

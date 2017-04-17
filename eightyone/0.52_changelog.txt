@@ -1,0 +1,5 @@
+Version 0.52 24/8/07
+Added ZX81 Larken disk support. Preliminary support for ZX1541 (Only memory and IEC
+interface coded, still have to emulate the 1541 itself). Fixed a bug which caused
+the emulator to crash if the workstation was locked/suspended/hibernated.  This
+may (but only may!) help with Vista compatability.

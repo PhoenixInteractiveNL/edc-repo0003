@@ -1,0 +1,5 @@
+Version 0.43b - 11/11/06
+Added support for Piters 16 bit IDE interface. Added Disciple & +D Floppy interface.
+Fixed a bug in +2A/+3 paging. Preliminary support for QL emulation (Does nothing
+useful at the moment). If EightyOne finds FDC765.DLL available, it uses that
+instead of lib765 (more compatible for protected +3 disks).

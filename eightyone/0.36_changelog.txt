@@ -1,0 +1,2 @@
+Version 0.36 7/8/05
+Whoooaaa! 9 Months without a release.  Sorry about that - Been stuck without a desktop PC for quite a while and the laptop isn't really up to dev work.  Changes?  Erm, some... It looks like I fiddled around with the Tape dialog sometime around November last year.  I think I changed the Wav->Tap conversion routime to something a little more reliable.  Snapshot loading/saving should work again.  There's a few changes to the display timing as well.

@@ -1,0 +1,15 @@
+v0.010
+ADDED: WAV file loading.
+ADDED: WAV browser (Currently doesn't do a great deal).
+ADDED: Option to pause SpudACE when main window is not in focus.
+ADDED: Snapshot saving.
+ADDED: tap saving.
+ADDED: SpudACE should now adjust it's dialog sizes dependant on the OS (and theme) you're running.
+ADDED: Hotkey (F3) to enable the debugger.
+ADDED: Tape auto-rewind option.
+ADDED: Disable EXIT message option.
+ADDED: SpudACE now remembers the size and positions of your dialogs when you close down.
+ADDED: SpudACE will create a new config fle if you manage to corrupt the current one.
+
+FIXED: The hotkeys now work in the debugger.
+FIXED: The top of the display was corrupted when running in D3D on XP.

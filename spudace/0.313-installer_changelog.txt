@@ -1,0 +1,6 @@
+v0.313
+FIXED: Re-opening Load File dialog and selecting CANCEL crashed SpudACE.
+FIXED: Rewind button on tape browser wasn't working.
+FIXED: Killing the WAV browser half way through a load crashed SpudACE.
+FIXED: WAV browser now display correct info if selected half way through a load.
+FIXED: Files weren't loading when being re-selected.

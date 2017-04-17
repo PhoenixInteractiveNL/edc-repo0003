@@ -1,0 +1,60 @@
+What's new in 1.63:
+-------------------
+     * New drivers:
+
+         - Street Fighter Alpha 3 (Hispanic 980904)
+         - X-Men Vs. Street Fighter (Asia 960910)
+         - X-Men: Children of the Atom (Euro 950331)
+         - X-Men: Children of the Atom (Asia 950105)
+         - Marvel Vs. Capcom: Clash of Super Heroes (US 971222)
+         - Street Fighter Zero (Hispanic 950718)
+         - Street Fighter Alpha 2 (US 960430)
+         - Ring of Destruction: Slammasters II (Asia 940831)
+         - PuzzLoop 2 (Japan 010226)
+         - Vampire Hunter: Darkstalkers' Revenge (Japan 950307 stop version)
+         - Super Street Fighter II X (Japan 940223 rent version)
+         - Marvel Vs. Capcom: Clash of Super Heroes (Jap 980123, PCB)
+         - Street Fighter Zero 2 (Japan 960430)
+         - Super Street Fighter II: The Tournament Battle (Hispanic 931005)
+
+         - The King of Fighters '98: The Slugfest (Korean M1 set 2)
+         - The King of Fighters '97 (Korean)
+         - The King of Fighters '97 Oroshi Plus 2003 (bootleg)
+         - Jockey Grandprix (set 2)
+         - Alpha Mission II (Prototype)
+         - Burning Fight (Prototype)
+         - Choutetsu Brikin'ger - Iron clad (Prototype)
+         - King of the Monsters 2: The Next Thing (Prototype)
+         - Final Romance 2 (Neo CD conversion)
+	 - Super Bubble Pop
+
+         - 1941 - Counter Attack (US 900227)
+         - 1941 - Counter Attack (World 900227)
+         - Captain Commando (World 911202)
+         - Captain Commando (Japan 910928)
+         - Forgotten Worlds (US set 2)
+         - Area 88 (Japan resale version)
+         - Knights of the Round (Japan 911127 alt)
+         - The King of Dragons (Japan 910805 alt)
+         - The King of Dragons (World 910805)
+         - Mega Man - The Power Battle (CPS1, US 951006)
+         - Tenchi wo Kurau (Japan Resale Version)
+         - Final Fight (US set 2)
+         - Pang! 3 (Euro 950511)
+         - Warriors of Fate (World 921031)
+         - Street Fighter II': Champion Edition (Japan 920322)
+         - Forgotten Worlds (US set 2)
+         - Final Fight (World set 2)
+         - Street Fighter II - The World Warrior (US 910522 G)
+         - Street Fighter II - The World Warrior (World 910228)
+         - Street Fighter II - The World Warrior (US 910306)
+         - Street Fighter II' - Champion Edition (World 920513)
+         - Street Fighter II' - Champion Edition (Japan 920803)
+         - Street Fighter II' - Champion Edition (Accelerator set 2)
+         - The Punisher (Hispanic 930422)
+
+
+     * Changed kof99nd to use non Korean P ROMs.
+     * Changed SSF2T parent / clone relationship to match MAME.
+     * Changed SF2T parent / clone relationship to match MAME.
+     * Various other changes to match MAME 148 ROM naming.

@@ -1,0 +1,42 @@
+What's new in 1.64:
+-------------------
+
+     * New drivers:
+
+         - Forgotten Worlds (US set 4)
+         - Three Wonders (World 910513)
+         - Street Fighter II' - Champion Edition (Hung Hsi, bootleg)
+         - Street Fighter II - The World Warrior (Japan 910411)
+         - Street Fighter II - The World Warrior (Japan 910522)
+         - Street Fighter II - The World Warrior (Japan 920312)
+         - Street Fighter II - The World Warrior (World 910318)
+         - Final Fight (Japan 900613)
+         - Dai Makai-Mura (Japan Resale Ver.)
+         - Willow (World)
+
+         - Progear No Arashi (Japan 010117 Bootleg)
+         - Street Fighter Zero (Asia 950605)
+         - Dungeons and Dragons: Tower of Doom (Asia 940412)
+         - X-Men Vs. Street Fighter (Asia 961004)
+         - 19XX: The War Against Destiny (Japan 960104)
+         - 19XX: The War Against Destiny (Asia 960104)
+         - Armored Warriors (Asia 941024)
+         - Super Street Fighter II: The New Challengers (World 931005)
+         - Dungeons and Dragons: Shadow over Mystara (Asia 960208)
+         - Super Puzzle Fighter II Turbo (Euro 960529)
+         - X-Men Vs. Street Fighter (US 960910)
+
+         - Bang Bang Busters
+         - Treasure of the Caribbean (homebrew)
+         - The King of Fighters '95 (alt)
+         - The King of Fighters '98: The Slugfest (alt)
+
+     * Changed sfa2u ROM names to match MAME 0162.
+     * Changed a nemoj ROM to match MAME 0162.
+     * Changed a dinou ROM to match MAME 0162.
+     * Changed a diggerma ROM to match MAME 0162.
+     * Changed a puzzldpr ROM to match MAME 0162.
+
+     * Fixed a long standing bug that could cause CPS2 games that use raster effects to freeze
+       while the effect is being used.
+     * added DIP settings for 'Street Fighter II - Hyper Fighting'

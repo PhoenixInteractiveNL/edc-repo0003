@@ -1,0 +1,2 @@
+v0.312
+FIXED: FORTH words list now works.

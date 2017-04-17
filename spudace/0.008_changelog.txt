@@ -1,0 +1,9 @@
+v0.008
+
+ADDED: SpudACE now remembers where the last window position was and puts it back there when you restart SpudACE.
+
+REMOVED: Calculator from Debugger menu (you can get it from the main window menu)
+
+FIXED: Calculator would clear display if you changed base on a equation answer.
+FIXED: SpudACE now calculates the main window size before displaying it.
+FIXED: Lots of little "under the hood" bugs no-one has noticed!!

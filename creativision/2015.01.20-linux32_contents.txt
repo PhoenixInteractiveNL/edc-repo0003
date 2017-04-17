@@ -1,0 +1,63 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-01-20 14:53:29 .....        10424       625759  utils\linux\x86\bas2cas
+2015-01-20 15:02:29 .....        11936               utils\linux\x86_64\bas2cas
+2015-01-20 15:21:48 .....         6680               utils\rpi\bas2cas
+2015-01-20 14:53:29 .....         9664               utils\linux\x86\cas2wav
+2015-01-20 15:02:29 .....        10408               utils\linux\x86_64\cas2wav
+2015-01-20 15:21:48 .....         5928               utils\rpi\cas2wav
+2015-01-20 14:53:29 .....         9676               utils\linux\x86\cvgfx
+2015-01-20 15:02:29 .....        10432               utils\linux\x86_64\cvgfx
+2015-01-20 15:21:48 .....         5932               utils\rpi\cvgfx
+2015-01-20 14:53:29 .....        14028               utils\linux\x86\smbloader
+2015-01-20 15:02:29 .....        14800               utils\linux\x86_64\smbloader
+2015-01-20 15:21:48 .....        10284               utils\rpi\smbloader
+2015-01-20 14:53:29 .....         9672               utils\linux\x86\txt2cas
+2015-01-20 15:02:29 .....        10424               utils\linux\x86_64\txt2cas
+2015-01-20 15:21:48 .....         6140               utils\rpi\txt2cas
+2015-01-06 21:36:42 .....           35               roms\dir.txt
+2015-01-20 11:53:03 .....       508380               doc\creatiVision Emulator.pdf
+2015-01-10 20:08:31 .....        26979               doc\Creativision Keypad Matrix.pdf
+2015-01-18 16:02:01 .....        48762               doc\MSBASIC File Formats.pdf
+2015-01-12 21:22:48 .....        27058               doc\Salora Manager Keyboard Scan Code Matrix.pdf
+2015-01-06 16:48:25 .....        10968               caspak\laser2001-salora\andromed.cas
+2015-01-06 16:48:25 .....        10713               caspak\laser2001-salora\caveman.cas
+2015-01-06 16:48:25 .....        10176               caspak\laser2001-salora\crazycak.cas
+2015-01-06 05:13:58 .....        72661               caspak\creativision\cvdemo.cas
+2015-01-06 04:03:15 .....        58482               caspak\creativision\fflare.cas
+2015-01-06 18:18:09 .....        14484               caspak\laser2001-salora\pipeline.cas
+2015-01-06 16:48:25 .....         4125               caspak\laser2001-salora\tekstink.cas
+2015-01-06 20:09:16 .....         3444               caspak\laser2001-salora\tukialus.cas
+2015-01-06 16:48:25 .....         5069               caspak\laser2001-salora\yksikat.cas
+2000-08-24 15:32:04 .....         2048               bios\bioscv.rom
+2014-05-30 10:41:51 .....        16384               bios\cslbios.rom
+2014-12-30 15:15:32 .....        16384               bios\cslbiossm.rom
+2014-01-26 13:06:29 .....        16384               bios\laser2001.rom
+2014-01-12 22:05:52 .....        16384               bios\saloram.rom
+2015-01-20 14:53:06 .....        71712        27755  creatiVision
+2015-01-20 14:47:22 .....        17934        35368  utils\windows\x86\bas2cas.exe
+2015-01-20 14:49:02 .....        20480               utils\windows\x86_64\bas2cas.exe
+2015-01-20 14:47:29 .....        18446               utils\windows\x86\cas2wav.exe
+2015-01-20 14:49:07 .....        19968               utils\windows\x86_64\cas2wav.exe
+2015-01-20 14:48:33 .....        17934               utils\windows\x86\cvgfx.exe
+2015-01-20 14:49:58 .....        18944               utils\windows\x86_64\cvgfx.exe
+2015-01-20 14:48:38 .....        24078               utils\windows\x86\smbloader.exe
+2015-01-20 14:50:03 .....        25600               utils\windows\x86_64\smbloader.exe
+2015-01-20 14:48:43 .....        18446               utils\windows\x86\txt2cas.exe
+2015-01-20 14:50:08 .....        19456               utils\windows\x86_64\txt2cas.exe
+2017-04-17 23:18:06 D....            0            0  utils\windows
+2017-04-17 23:18:06 D....            0            0  utils\rpi
+2017-04-17 23:18:06 D....            0            0  utils\linux\x86_64
+2017-04-17 23:18:06 D....            0            0  utils\linux\x86
+2017-04-17 23:18:06 D....            0            0  utils\linux
+2017-04-17 23:18:06 D....            0            0  utils
+2017-04-17 23:18:06 D....            0            0  roms
+2017-04-17 23:18:06 D....            0            0  doc
+2017-04-17 23:18:06 D....            0            0  caspak\laser2001-salora
+2017-04-17 23:18:06 D....            0            0  caspak\creativision
+2017-04-17 23:18:06 D....            0            0  caspak
+2017-04-17 23:18:06 D....            0            0  bios
+2017-04-17 23:18:06 D....            0            0  utils\windows\x86_64
+2017-04-17 23:18:06 D....            0            0  utils\windows\x86
+------------------- ----- ------------ ------------  ------------------------
+2017-04-17 23:18:06            1288346       688882  45 files, 14 folders

@@ -1,0 +1,5 @@
+What's New in 0.2.9
+-------------------
+* Screen border is back
+* New developer -g switch
+* New sound core

@@ -1,0 +1,3 @@
+Version 0.42 09/09/05
+Fixed several bugs introduced with the new ROM Handling.  Preliminary support for ZX97/Lite.
+Added ACE colour board from ETI magazine. Fixed another bug in the keyboard handler.

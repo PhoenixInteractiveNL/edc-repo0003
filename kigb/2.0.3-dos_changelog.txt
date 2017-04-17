@@ -1,0 +1,11 @@
+V2.03 (2007-9-10)
+-----
+Many thanks to Toshi for providing the good dumps and the information about
+MMM01 to me.
+
+-New games supported:
+  * Support MMM01. Momotarou Collection 2 and Taito Variety Pack is now
+    playable.
+  * Mortal Kombat I & II (U).
+- Bugs fixed:
+  * Cheat is now work again. This bug was introduced since V1.54.
