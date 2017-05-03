@@ -1,0 +1,1273 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 10:45:51 ....A         3288      4109912  mgba-0.5.2\src\third-party\libpng\ANNOUNCE
+2016-12-31 10:45:51 ....A         8485               mgba-0.5.2\src\third-party\zlib\as400\bndsrc
+2016-12-31 10:45:51 ....A          163               mgba-0.5.2\tools\debian\changelog
+2016-12-31 10:45:51 ....A        76402               mgba-0.5.2\src\third-party\zlib\ChangeLog
+2016-12-31 10:45:51 ....A        32892               mgba-0.5.2\CHANGES
+2016-12-31 10:45:51 ....A       261179               mgba-0.5.2\src\third-party\libpng\CHANGES
+2016-12-31 10:45:51 ....A         3966               mgba-0.5.2\src\third-party\libpng\contrib\tools\chkfmt
+2016-12-31 10:45:51 ....A           52               mgba-0.5.2\tools\debian\clean
+2016-12-31 10:45:51 ....A            2               mgba-0.5.2\tools\debian\compat
+2016-12-31 10:45:51 ....A         7333               mgba-0.5.2\src\third-party\libpng\compile
+2016-12-31 10:45:51 ....A        26082               mgba-0.5.2\src\third-party\zlib\configure
+2016-12-31 10:45:51 ....A       473290               mgba-0.5.2\src\third-party\libpng\configure
+2016-12-31 10:45:51 ....A         2965               mgba-0.5.2\tools\debian\control
+2016-12-31 10:45:51 ....A        18097               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\COPYING
+2016-12-31 10:45:51 ....A        22619               mgba-0.5.2\tools\debian\copyright
+2016-12-31 10:45:51 ....A        23566               mgba-0.5.2\src\third-party\libpng\depcomp
+2016-12-31 10:45:51 ....A           18               mgba-0.5.2\tools\debian\docs
+2016-12-31 10:45:51 ....A        16573               mgba-0.5.2\src\third-party\zlib\FAQ
+2016-12-31 10:45:51 ....A           12               mgba-0.5.2\tools\debian\source\format
+2016-12-31 10:45:51 ....A         1988               mgba-0.5.2\src\third-party\zlib\INDEX
+2016-12-31 10:45:51 ....A        18106               mgba-0.5.2\src\third-party\libpng\INSTALL
+2016-12-31 10:45:51 ....A        14675               mgba-0.5.2\src\third-party\libpng\install-sh
+2016-12-31 10:45:51 ....A         2373               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\LICENSE
+2016-12-31 10:45:51 ....A         4197               mgba-0.5.2\src\third-party\libpng\LICENSE
+2016-12-31 10:45:51 ....A        16726               mgba-0.5.2\LICENSE
+2016-12-31 10:45:51 ....A          100               mgba-0.5.2\src\third-party\zlib\Makefile
+2016-12-31 10:45:51 ....A          127               mgba-0.5.2\src\third-party\zlib\contrib\blast\Makefile
+2016-12-31 10:45:51 ....A          234               mgba-0.5.2\src\third-party\zlib\contrib\untgz\Makefile
+2016-12-31 10:45:51 ....A          430               mgba-0.5.2\src\third-party\lzma\Util\Lzma\makefile
+2016-12-31 10:45:51 ....A          457               mgba-0.5.2\src\third-party\zlib\contrib\minizip\Makefile
+2016-12-31 10:45:51 ....A          563               mgba-0.5.2\src\third-party\lzma\Util\LzmaLib\makefile
+2016-12-31 10:45:51 ....A          567               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\makefile
+2016-12-31 10:45:51 ....A          678               mgba-0.5.2\src\third-party\lzma\Util\7z\makefile
+2016-12-31 10:45:51 ....A         1899               mgba-0.5.2\src\third-party\zlib\contrib\puff\Makefile
+2016-12-31 10:45:51 ....A         3595               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\decoder\makefile
+2016-12-31 10:45:51 ....A         3600               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\encoder\makefile
+2016-12-31 10:45:51 ....A         4171               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\preader\makefile
+2016-12-31 10:45:51 ....A         4741               mgba-0.5.2\src\third-party\zlib\nintendods\Makefile
+2016-12-31 10:45:51 ....A          601               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\makefile_con
+2016-12-31 10:45:51 ....A         6872               mgba-0.5.2\src\third-party\libpng\missing
+2016-12-31 10:45:51 ....A           80               mgba-0.5.2\src\third-party\libpng\tests\pngimage-full
+2016-12-31 10:45:51 ....A           67               mgba-0.5.2\src\third-party\libpng\tests\pngimage-quick
+2016-12-31 10:45:51 ....A          335               mgba-0.5.2\src\third-party\libpng\tests\pngstest
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-0g01
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-0g02
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-0g04
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-0g08
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-0g16
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-2c08
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-2c16
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-3p01
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-3p02
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-3p04
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-3p08
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-4a08
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-4a16
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-6a08
+2016-12-31 10:45:51 ....A           47               mgba-0.5.2\src\third-party\libpng\tests\pngstest-6a16
+2016-12-31 10:45:51 ....A          327               mgba-0.5.2\src\third-party\libpng\tests\pngstest-error
+2016-12-31 10:45:51 ....A           56               mgba-0.5.2\src\third-party\libpng\tests\pngtest
+2016-12-31 10:45:51 ....A           68               mgba-0.5.2\src\third-party\libpng\tests\pngunknown-discard
+2016-12-31 10:45:51 ....A           78               mgba-0.5.2\src\third-party\libpng\tests\pngunknown-IDAT
+2016-12-31 10:45:51 ....A           68               mgba-0.5.2\src\third-party\libpng\tests\pngunknown-if-safe
+2016-12-31 10:45:51 ....A          124               mgba-0.5.2\src\third-party\libpng\tests\pngunknown-sAPI
+2016-12-31 10:45:51 ....A           65               mgba-0.5.2\src\third-party\libpng\tests\pngunknown-save
+2016-12-31 10:45:51 ....A           65               mgba-0.5.2\src\third-party\libpng\tests\pngunknown-sTER
+2016-12-31 10:45:51 ....A           65               mgba-0.5.2\src\third-party\libpng\tests\pngunknown-vpAg
+2016-12-31 10:45:51 ....A           42               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-16-to-8
+2016-12-31 10:45:51 ....A           45               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-alpha-mode
+2016-12-31 10:45:51 ....A           45               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-background
+2016-12-31 10:45:51 ....A           56               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-expand16-alpha-mode
+2016-12-31 10:45:51 ....A           56               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-expand16-background
+2016-12-31 10:45:51 ....A           55               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-expand16-transform
+2016-12-31 10:45:51 ....A           39               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-sbit
+2016-12-31 10:45:51 ....A           44               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-threshold
+2016-12-31 10:45:51 ....A           44               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-gamma-transform
+2016-12-31 10:45:51 ....A           52               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-progressive-interlace-size
+2016-12-31 10:45:51 ....A           68               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-progressive-interlace-standard
+2016-12-31 10:45:51 ....A           38               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-progressive-interlace-transform
+2016-12-31 10:45:51 ....A           56               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-progressive-standard
+2016-12-31 10:45:51 ....A           56               mgba-0.5.2\src\third-party\libpng\tests\pngvalid-standard
+2016-12-31 10:45:51 ....A           51               mgba-0.5.2\src\third-party\zlib\contrib\infback9\README
+2016-12-31 10:45:51 ....A           74               mgba-0.5.2\src\third-party\zlib\contrib\blast\README
+2016-12-31 10:45:51 ....A          133               mgba-0.5.2\src\third-party\zlib\old\README
+2016-12-31 10:45:51 ....A          209               mgba-0.5.2\src\third-party\zlib\nintendods\README
+2016-12-31 10:45:51 ....A          213               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\README
+2016-12-31 10:45:51 ....A          342               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\encoder\README
+2016-12-31 10:45:51 ....A          353               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\decoder\README
+2016-12-31 10:45:51 ....A          481               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\preader\README
+2016-12-31 10:45:51 ....A         1490               mgba-0.5.2\src\third-party\zlib\contrib\iostream3\README
+2016-12-31 10:45:51 ....A         1882               mgba-0.5.2\src\third-party\libpng\contrib\conftest\README
+2016-12-31 10:45:51 ....A         3076               mgba-0.5.2\src\third-party\zlib\contrib\puff\README
+2016-12-31 10:45:51 ....A         3454               mgba-0.5.2\src\third-party\libpng\contrib\arm-neon\README
+2016-12-31 10:45:51 ....A         3669               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\README
+2016-12-31 10:45:51 ....A         5185               mgba-0.5.2\src\third-party\zlib\README
+2016-12-31 10:45:51 ....A         5988               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\README
+2016-12-31 10:45:51 ....A         7847               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\README
+2016-12-31 10:45:51 ....A        11254               mgba-0.5.2\src\third-party\libpng\README
+2016-12-31 10:45:51 ....A          935               mgba-0.5.2\tools\debian\rules
+2016-12-31 10:45:51 ....A         4640               mgba-0.5.2\src\third-party\libpng\test-driver
+2016-12-31 10:45:51 ....A          491               mgba-0.5.2\src\third-party\zlib\contrib\iostream3\TODO
+2016-12-31 10:45:51 ....A         1201               mgba-0.5.2\src\third-party\libpng\TODO
+2016-12-31 10:45:51 ....A          851               mgba-0.5.2\src\third-party\libpng\projects\vstudio\WARNING
+2016-12-31 10:45:51 ....A          137               mgba-0.5.2\tools\debian\watch
+2016-12-31 10:45:51 ....A         3895               mgba-0.5.2\src\third-party\zlib\zlib2ansi
+2016-12-31 10:45:51 ....A       235844               mgba-0.5.2\src\platform\3ds\bios.wav
+2016-12-31 10:45:51 ....A        72726               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib.chm
+2016-12-31 10:45:51 ....A         2498               mgba-0.5.2\src\third-party\libpng\pngbar.jpg
+2016-12-31 10:45:51 ....A        60979               mgba-0.5.2\src\platform\psp2\backdrop.png
+2016-12-31 10:45:51 ....A          164               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn0g01.png
+2016-12-31 10:45:51 ....A          104               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn0g02.png
+2016-12-31 10:45:51 ....A          145               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn0g04.png
+2016-12-31 10:45:51 ....A          138               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn0g08.png
+2016-12-31 10:45:51 ....A          167               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn0g16.png
+2016-12-31 10:45:51 ....A          145               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn2c08.png
+2016-12-31 10:45:51 ....A          302               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn2c16.png
+2016-12-31 10:45:51 ....A          112               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn3p01.png
+2016-12-31 10:45:51 ....A          146               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn3p02.png
+2016-12-31 10:45:51 ....A          216               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn3p04.png
+2016-12-31 10:45:51 ....A         1286               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn3p08.png
+2016-12-31 10:45:51 ....A          126               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn4a08.png
+2016-12-31 10:45:51 ....A         2206               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn4a16.png
+2016-12-31 10:45:51 ....A          184               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn6a08.png
+2016-12-31 10:45:51 ....A         3435               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\basn6a16.png
+2016-12-31 10:45:51 ....A        22936               mgba-0.5.2\src\platform\psp2\bg.png
+2016-12-31 10:45:51 ....A        20112               mgba-0.5.2\res\font.png
+2016-12-31 10:45:51 ....A        23430               mgba-0.5.2\res\font2x.png
+2016-12-31 10:45:51 ....A          176               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbbn0g01.png
+2016-12-31 10:45:51 ....A          197               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbbn0g02.png
+2016-12-31 10:45:51 ....A          429               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbbn0g04.png
+2016-12-31 10:45:51 ....A         2041               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbbn2c16.png
+2016-12-31 10:45:51 ....A         1499               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbbn3p08.png
+2016-12-31 10:45:51 ....A         2041               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbgn2c16.png
+2016-12-31 10:45:51 ....A         1499               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbgn3p08.png
+2016-12-31 10:45:51 ....A         1633               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbrn2c08.png
+2016-12-31 10:45:51 ....A         1313               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbwn0g16.png
+2016-12-31 10:45:51 ....A         1496               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbwn3p08.png
+2016-12-31 10:45:51 ....A         1499               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftbyn3p08.png
+2016-12-31 10:45:51 ....A          719               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftp0n0g08.png
+2016-12-31 10:45:51 ....A         1594               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftp0n2c08.png
+2016-12-31 10:45:51 ....A         1476               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftp0n3p08.png
+2016-12-31 10:45:51 ....A         1483               mgba-0.5.2\src\third-party\libpng\contrib\pngsuite\ftp1n3p08.png
+2016-12-31 10:45:51 ....A         8480               mgba-0.5.2\src\platform\wii\icon.png
+2016-12-31 10:45:51 ....A         5573               mgba-0.5.2\src\platform\psp2\icon0.png
+2016-12-31 10:45:51 ....A        19426               mgba-0.5.2\res\icons.png
+2016-12-31 10:45:51 ....A        20032               mgba-0.5.2\res\icons2x.png
+2016-12-31 10:45:51 ....A       491078               mgba-0.5.2\res\mgba-1024.png
+2016-12-31 10:45:51 ....A        17564               mgba-0.5.2\res\mgba-128.png
+2016-12-31 10:45:51 ....A         1615               mgba-0.5.2\res\mgba-16.png
+2016-12-31 10:45:51 ....A         2245               mgba-0.5.2\res\mgba-24.png
+2016-12-31 10:45:51 ....A        46308               mgba-0.5.2\res\mgba-256.png
+2016-12-31 10:45:51 ....A         2965               mgba-0.5.2\res\mgba-32.png
+2016-12-31 10:45:51 ....A         4707               mgba-0.5.2\res\mgba-48.png
+2016-12-31 10:45:51 ....A       135593               mgba-0.5.2\res\mgba-512.png
+2016-12-31 10:45:51 ....A         6875               mgba-0.5.2\res\mgba-64.png
+2016-12-31 10:45:51 ....A        11899               mgba-0.5.2\res\mgba-96.png
+2016-12-31 10:45:51 ....A        45782               mgba-0.5.2\src\platform\psp2\pic0.png
+2016-12-31 10:45:51 ....A         2399               mgba-0.5.2\src\third-party\libpng\pngbar.png
+2016-12-31 10:45:51 ....A         2069               mgba-0.5.2\src\third-party\libpng\pngnow.png
+2016-12-31 10:45:51 ....A         8695               mgba-0.5.2\src\third-party\libpng\pngtest.png
+2016-12-31 10:45:51 ....A          313               mgba-0.5.2\src\platform\psp2\startup.png
+2016-12-31 10:45:51 ....A        12901               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\toucan.png
+2016-12-31 10:45:51 ....A          208               mgba-0.5.2\src\third-party\libpng\contrib\visupng\VisualPng.png
+2016-12-31 10:45:51 ....A       285478               mgba-0.5.2\res\mgba.ico
+2016-12-31 10:45:51 ....A         1078               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\setup.ico
+2016-12-31 10:45:51 ....A          766               mgba-0.5.2\src\third-party\libpng\contrib\visupng\VisualPng.ico
+2016-12-31 10:45:51 ....A        20264               mgba-0.5.2\res\keymap.svg
+2016-12-31 10:45:51 ....A         6310               mgba-0.5.2\CONTRIBUTING.md
+2016-12-31 10:45:51 ....A         1560               mgba-0.5.2\PORTING.md
+2016-12-31 10:45:51 ....A         4812               mgba-0.5.2\src\third-party\inih\README.md
+2016-12-31 10:45:51 ....A         6996               mgba-0.5.2\README.md
+2016-12-31 10:45:51 ....A        27886               mgba-0.5.2\src\third-party\zlib\as400\zlib.inc
+2016-12-31 10:45:51 ....A          446               mgba-0.5.2\src\platform\3ds\3ds-vfs.h
+2016-12-31 10:45:51 ....A         5263               mgba-0.5.2\src\third-party\lzma\7z.h
+2016-12-31 10:45:51 ....A          403               mgba-0.5.2\src\third-party\lzma\7zAlloc.h
+2016-12-31 10:45:51 ....A          647               mgba-0.5.2\src\third-party\lzma\7zBuf.h
+2016-12-31 10:45:51 ....A          637               mgba-0.5.2\src\third-party\lzma\7zCrc.h
+2016-12-31 10:45:51 ....A         1581               mgba-0.5.2\src\third-party\lzma\7zFile.h
+2016-12-31 10:45:51 ....A         5737               mgba-0.5.2\src\third-party\lzma\7zTypes.h
+2016-12-31 10:45:51 ....A          582               mgba-0.5.2\src\third-party\lzma\7zVersion.h
+2016-12-31 10:45:51 ....A          511               mgba-0.5.2\src\platform\qt\AboutScreen.h
+2016-12-31 10:45:51 ....A         1364               mgba-0.5.2\src\third-party\lzma\Aes.h
+2016-12-31 10:45:51 ....A          675               mgba-0.5.2\src\third-party\lzma\Alloc.h
+2016-12-31 10:45:51 ....A          701               mgba-0.5.2\src\platform\qt\ArchiveInspector.h
+2016-12-31 10:45:51 ....A          528               mgba-0.5.2\src\util\arm-algo.h
+2016-12-31 10:45:51 ....A         4246               mgba-0.5.2\src\arm\arm.h
+2016-12-31 10:45:51 ....A         3864               mgba-0.5.2\src\gba\audio.h
+2016-12-31 10:45:51 ....A         6502               mgba-0.5.2\src\gb\audio.h
+2016-12-31 10:45:51 ....A          760               mgba-0.5.2\src\platform\qt\AudioDevice.h
+2016-12-31 10:45:51 ....A         1176               mgba-0.5.2\src\platform\qt\AudioProcessor.h
+2016-12-31 10:45:51 ....A          952               mgba-0.5.2\src\platform\qt\AudioProcessorQt.h
+2016-12-31 10:45:51 ....A          958               mgba-0.5.2\src\platform\qt\AudioProcessorSDL.h
+2016-12-31 10:45:51 ....A         3287               mgba-0.5.2\src\third-party\lzma\Bcj2.h
+2016-12-31 10:45:51 ....A          640               mgba-0.5.2\src\gba\bios.h
+2016-12-31 10:45:51 ....A         3433               mgba-0.5.2\src\third-party\zlib\contrib\blast\blast.h
+2016-12-31 10:45:51 ....A         2651               mgba-0.5.2\src\third-party\blip_buf\blip_buf.h
+2016-12-31 10:45:51 ....A         1926               mgba-0.5.2\src\third-party\lzma\Bra.h
+2016-12-31 10:45:51 ....A        10244               mgba-0.5.2\src\third-party\libpng\contrib\visupng\cexcept.h
+2016-12-31 10:45:51 ....A          789               mgba-0.5.2\src\gb\cheats.h
+2016-12-31 10:45:51 ....A         2526               mgba-0.5.2\src\core\cheats.h
+2016-12-31 10:45:51 ....A         4050               mgba-0.5.2\src\gba\cheats.h
+2016-12-31 10:45:51 ....A         1560               mgba-0.5.2\src\platform\qt\CheatsModel.h
+2016-12-31 10:45:51 ....A          848               mgba-0.5.2\src\platform\qt\CheatsView.h
+2016-12-31 10:45:51 ....A         1319               mgba-0.5.2\src\util\circle-buffer.h
+2016-12-31 10:45:51 ....A          426               mgba-0.5.2\src\arm\debugger\cli-debugger.h
+2016-12-31 10:45:51 ....A          438               mgba-0.5.2\src\lr35902\debugger\cli-debugger.h
+2016-12-31 10:45:51 ....A         2106               mgba-0.5.2\src\debugger\cli-debugger.h
+2016-12-31 10:45:51 ....A          535               mgba-0.5.2\src\gb\cli.h
+2016-12-31 10:45:51 ....A          551               mgba-0.5.2\src\gba\extra\cli.h
+2016-12-31 10:45:51 ....A         1342               mgba-0.5.2\src\feature\commandline.h
+2016-12-31 10:45:51 ....A         6502               mgba-0.5.2\src\util\common.h
+2016-12-31 10:45:51 ....A         1168               mgba-0.5.2\src\third-party\lzma\Compiler.h
+2016-12-31 10:45:51 ....A         3332               mgba-0.5.2\src\core\config.h
+2016-12-31 10:45:51 ....A         2897               mgba-0.5.2\src\platform\qt\ConfigController.h
+2016-12-31 10:45:51 ....A         1670               mgba-0.5.2\src\util\configuration.h
+2016-12-31 10:45:51 ....A          341               mgba-0.5.2\src\gb\core.h
+2016-12-31 10:45:51 ....A          344               mgba-0.5.2\src\gba\core.h
+2016-12-31 10:45:51 ....A         5224               mgba-0.5.2\src\core\core.h
+2016-12-31 10:45:51 ....A          566               mgba-0.5.2\src\core\cpu.h
+2016-12-31 10:45:51 ....A         5881               mgba-0.5.2\src\third-party\lzma\CpuArch.h
+2016-12-31 10:45:51 ....A          502               mgba-0.5.2\src\util\crc32.h
+2016-12-31 10:45:51 ....A        30562               mgba-0.5.2\src\third-party\zlib\crc32.h
+2016-12-31 10:45:51 ....A         4735               mgba-0.5.2\src\third-party\zlib\contrib\minizip\crypt.h
+2016-12-31 10:45:51 ....A          799               mgba-0.5.2\src\platform\3ds\ctr-gpu.h
+2016-12-31 10:45:51 ....A          841               mgba-0.5.2\src\lr35902\debugger\debugger.h
+2016-12-31 10:45:51 ....A         1460               mgba-0.5.2\src\arm\debugger\debugger.h
+2016-12-31 10:45:51 ....A         2930               mgba-0.5.2\src\debugger\debugger.h
+2016-12-31 10:45:51 ....A          595               mgba-0.5.2\src\arm\decoder-inlines.h
+2016-12-31 10:45:51 ....A         5660               mgba-0.5.2\src\arm\decoder.h
+2016-12-31 10:45:51 ....A        12774               mgba-0.5.2\src\third-party\zlib\deflate.h
+2016-12-31 10:45:51 ....A          395               mgba-0.5.2\src\third-party\lzma\Delta.h
+2016-12-31 10:45:51 ....A         1164               mgba-0.5.2\src\core\directories.h
+2016-12-31 10:45:51 ....A         1923               mgba-0.5.2\src\platform\qt\Display.h
+2016-12-31 10:45:51 ....A         2819               mgba-0.5.2\src\platform\qt\DisplayGL.h
+2016-12-31 10:45:51 ....A         1268               mgba-0.5.2\src\platform\qt\DisplayQt.h
+2016-12-31 10:45:51 ....A        17870               mgba-0.5.2\src\arm\emitter-arm.h
+2016-12-31 10:45:51 ....A          635               mgba-0.5.2\src\arm\emitter-inlines.h
+2016-12-31 10:45:51 ....A        24876               mgba-0.5.2\src\lr35902\emitter-lr35902.h
+2016-12-31 10:45:51 ....A         5331               mgba-0.5.2\src\arm\emitter-thumb.h
+2016-12-31 10:45:51 ....A          495               mgba-0.5.2\src\util\export.h
+2016-12-31 10:45:51 ....A         2439               mgba-0.5.2\src\feature\ffmpeg\ffmpeg-encoder.h
+2016-12-31 10:45:51 ....A          449               mgba-0.5.2\src\util\gui\file-select.h
+2016-12-31 10:45:51 ....A          452               mgba-0.5.2\src\util\gui\font-metrics.h
+2016-12-31 10:45:51 ....A         2258               mgba-0.5.2\src\util\gui\font.h
+2016-12-31 10:45:51 ....A          880               mgba-0.5.2\src\util\formatting.h
+2016-12-31 10:45:51 ....A         5954               mgba-0.5.2\src\platform\qt\GameController.h
+2016-12-31 10:45:51 ....A          992               mgba-0.5.2\src\platform\qt\GamepadAxisEvent.h
+2016-12-31 10:45:51 ....A          824               mgba-0.5.2\src\platform\qt\GamepadButtonEvent.h
+2016-12-31 10:45:51 ....A          741               mgba-0.5.2\src\gba\cheats\gameshark.h
+2016-12-31 10:45:51 ....A         2882               mgba-0.5.2\src\gb\gb.h
+2016-12-31 10:45:51 ....A         4278               mgba-0.5.2\src\gba\gba.h
+2016-12-31 10:45:51 ....A         1805               mgba-0.5.2\src\platform\qt\GBAApp.h
+2016-12-31 10:45:51 ....A         2099               mgba-0.5.2\src\platform\qt\GBAKeyEditor.h
+2016-12-31 10:45:51 ....A          612               mgba-0.5.2\src\platform\qt\GBAOverride.h
+2016-12-31 10:45:51 ....A          607               mgba-0.5.2\src\platform\qt\GBOverride.h
+2016-12-31 10:45:51 ....A         1034               mgba-0.5.2\src\debugger\gdb-stub.h
+2016-12-31 10:45:51 ....A          980               mgba-0.5.2\src\platform\qt\GDBController.h
+2016-12-31 10:45:51 ....A          833               mgba-0.5.2\src\platform\qt\GDBWindow.h
+2016-12-31 10:45:51 ....A        16064               mgba-0.5.2\src\platform\windows\getopt.h
+2016-12-31 10:45:51 ....A          941               mgba-0.5.2\src\platform\qt\GIFView.h
+2016-12-31 10:45:51 ....A          430               mgba-0.5.2\src\platform\sdl\gl-common.h
+2016-12-31 10:45:51 ....A          589               mgba-0.5.2\src\platform\opengl\gl.h
+2016-12-31 10:45:51 ....A         2117               mgba-0.5.2\src\platform\opengl\gles2.h
+2016-12-31 10:45:51 ....A          454               mgba-0.5.2\src\feature\gui\gui-config.h
+2016-12-31 10:45:51 ....A         2035               mgba-0.5.2\src\feature\gui\gui-runner.h
+2016-12-31 10:45:51 ....A         1739               mgba-0.5.2\src\util\gui.h
+2016-12-31 10:45:51 ....A         6552               mgba-0.5.2\src\third-party\zlib\gzguts.h
+2016-12-31 10:45:51 ....A         4557               mgba-0.5.2\src\third-party\zlib\examples\gzlog.h
+2016-12-31 10:45:51 ....A         3554               mgba-0.5.2\src\gba\hardware.h
+2016-12-31 10:45:51 ....A          371               mgba-0.5.2\src\util\hash.h
+2016-12-31 10:45:51 ....A          353               mgba-0.5.2\src\gba\hle-bios.h
+2016-12-31 10:45:51 ....A         1024               mgba-0.5.2\src\feature\imagemagick\imagemagick-gif-encoder.h
+2016-12-31 10:45:51 ....A         1594               mgba-0.5.2\src\third-party\zlib\contrib\infback9\infback9.h
+2016-12-31 10:45:51 ....A          427               mgba-0.5.2\src\third-party\zlib\inffast.h
+2016-12-31 10:45:51 ....A         6599               mgba-0.5.2\src\third-party\zlib\contrib\infback9\inffix9.h
+2016-12-31 10:45:51 ....A         6332               mgba-0.5.2\src\third-party\zlib\inffixed.h
+2016-12-31 10:45:51 ....A         6399               mgba-0.5.2\src\third-party\zlib\inflate.h
+2016-12-31 10:45:51 ....A         1991               mgba-0.5.2\src\third-party\zlib\contrib\infback9\inflate9.h
+2016-12-31 10:45:51 ....A         2901               mgba-0.5.2\src\third-party\zlib\contrib\infback9\inftree9.h
+2016-12-31 10:45:51 ....A         2928               mgba-0.5.2\src\third-party\zlib\inftrees.h
+2016-12-31 10:45:51 ....A         2752               mgba-0.5.2\src\third-party\inih\ini.h
+2016-12-31 10:45:51 ....A          606               mgba-0.5.2\src\gba\input.h
+2016-12-31 10:45:51 ....A         2789               mgba-0.5.2\src\core\input.h
+2016-12-31 10:45:51 ....A         3160               mgba-0.5.2\src\platform\qt\InputController.h
+2016-12-31 10:45:51 ....A         3432               mgba-0.5.2\src\platform\qt\InputProfile.h
+2016-12-31 10:45:51 ....A          726               mgba-0.5.2\src\gb\interface.h
+2016-12-31 10:45:51 ....A         1113               mgba-0.5.2\src\gba\interface.h
+2016-12-31 10:45:51 ....A         1650               mgba-0.5.2\src\core\interface.h
+2016-12-31 10:45:51 ....A         2306               mgba-0.5.2\src\gb\io.h
+2016-12-31 10:45:51 ....A         4015               mgba-0.5.2\src\gba\io.h
+2016-12-31 10:45:51 ....A         7051               mgba-0.5.2\src\third-party\zlib\contrib\minizip\ioapi.h
+2016-12-31 10:45:51 ....A         1573               mgba-0.5.2\src\platform\qt\IOViewer.h
+2016-12-31 10:45:51 ....A          851               mgba-0.5.2\src\third-party\zlib\contrib\minizip\iowin32.h
+2016-12-31 10:45:51 ....A          514               mgba-0.5.2\src\arm\isa-arm.h
+2016-12-31 10:45:51 ....A         4906               mgba-0.5.2\src\arm\isa-inlines.h
+2016-12-31 10:45:51 ....A          470               mgba-0.5.2\src\lr35902\isa-lr35902.h
+2016-12-31 10:45:51 ....A          458               mgba-0.5.2\src\arm\isa-thumb.h
+2016-12-31 10:45:51 ....A         1241               mgba-0.5.2\src\platform\qt\KeyEditor.h
+2016-12-31 10:45:51 ....A          898               mgba-0.5.2\src\core\library.h
+2016-12-31 10:45:51 ....A         1206               mgba-0.5.2\src\platform\qt\LibraryModel.h
+2016-12-31 10:45:51 ....A       102361               mgba-0.5.2\src\platform\libretro\libretro.h
+2016-12-31 10:45:51 ....A         1211               mgba-0.5.2\src\platform\qt\LoadSaveState.h
+2016-12-31 10:45:51 ....A         1675               mgba-0.5.2\src\gba\sio\lockstep.h
+2016-12-31 10:45:51 ....A         1581               mgba-0.5.2\src\core\log.h
+2016-12-31 10:45:51 ....A         1434               mgba-0.5.2\src\platform\qt\LogController.h
+2016-12-31 10:45:51 ....A         1009               mgba-0.5.2\src\platform\qt\LogView.h
+2016-12-31 10:45:51 ....A         3671               mgba-0.5.2\src\lr35902\lr35902.h
+2016-12-31 10:45:51 ....A         3437               mgba-0.5.2\src\third-party\lzma\LzFind.h
+2016-12-31 10:45:51 ....A         2509               mgba-0.5.2\src\third-party\lzma\LzFindMt.h
+2016-12-31 10:45:51 ....A         1824               mgba-0.5.2\src\third-party\lzma\LzHash.h
+2016-12-31 10:45:51 ....A         2248               mgba-0.5.2\src\third-party\lzma\Lzma2Dec.h
+2016-12-31 10:45:51 ....A         1827               mgba-0.5.2\src\third-party\lzma\Lzma2Enc.h
+2016-12-31 10:45:51 ....A         3266               mgba-0.5.2\src\third-party\lzma\Lzma86.h
+2016-12-31 10:45:51 ....A         7055               mgba-0.5.2\src\third-party\lzma\LzmaDec.h
+2016-12-31 10:45:51 ....A         3117               mgba-0.5.2\src\third-party\lzma\LzmaEnc.h
+2016-12-31 10:45:51 ....A         4438               mgba-0.5.2\src\third-party\lzma\LzmaLib.h
+2016-12-31 10:45:51 ....A          479               mgba-0.5.2\src\arm\macros.h
+2016-12-31 10:45:51 ....A         2147               mgba-0.5.2\src\platform\sdl\main.h
+2016-12-31 10:45:51 ....A         1852               mgba-0.5.2\src\util\math.h
+2016-12-31 10:45:51 ....A          981               mgba-0.5.2\src\gb\mbc.h
+2016-12-31 10:45:51 ....A          485               mgba-0.5.2\src\arm\debugger\memory-debugger.h
+2016-12-31 10:45:51 ....A          406               mgba-0.5.2\src\util\memory.h
+2016-12-31 10:45:51 ....A         4015               mgba-0.5.2\src\gb\memory.h
+2016-12-31 10:45:51 ....A         5514               mgba-0.5.2\src\gba\memory.h
+2016-12-31 10:45:51 ....A         1951               mgba-0.5.2\src\platform\qt\MemoryModel.h
+2016-12-31 10:45:51 ....A          800               mgba-0.5.2\src\platform\qt\MemoryView.h
+2016-12-31 10:45:51 ....A         1264               mgba-0.5.2\src\util\gui\menu.h
+2016-12-31 10:45:51 ....A          980               mgba-0.5.2\src\platform\qt\MessagePainter.h
+2016-12-31 10:45:51 ....A          120               mgba-0.5.2\src\platform\openemu\mGBAGameCore.h
+2016-12-31 10:45:51 ....A         1745               mgba-0.5.2\src\gba\rr\mgm.h
+2016-12-31 10:45:51 ....A         2072               mgba-0.5.2\src\third-party\lzma\MtCoder.h
+2016-12-31 10:45:51 ....A          986               mgba-0.5.2\src\platform\qt\MultiplayerController.h
+2016-12-31 10:45:51 ....A          708               mgba-0.5.2\src\third-party\zlib\contrib\minizip\mztools.h
+2016-12-31 10:45:51 ....A          725               mgba-0.5.2\src\util\nointro.h
+2016-12-31 10:45:51 ....A         2052               mgba-0.5.2\src\platform\openemu\OEGBASystemResponderClient.h
+2016-12-31 10:45:51 ....A          548               mgba-0.5.2\src\platform\qt\Override.h
+2016-12-31 10:45:51 ....A          787               mgba-0.5.2\src\gb\overrides.h
+2016-12-31 10:45:51 ....A          852               mgba-0.5.2\src\gba\overrides.h
+2016-12-31 10:45:51 ....A         1040               mgba-0.5.2\src\platform\qt\OverrideView.h
+2016-12-31 10:45:51 ....A          758               mgba-0.5.2\src\platform\qt\PaletteView.h
+2016-12-31 10:45:51 ....A         1283               mgba-0.5.2\src\debugger\parser.h
+2016-12-31 10:45:51 ....A          484               mgba-0.5.2\src\gba\cheats\parv3.h
+2016-12-31 10:45:51 ....A          827               mgba-0.5.2\src\util\patch-fast.h
+2016-12-31 10:45:51 ....A          378               mgba-0.5.2\src\util\patch-ips.h
+2016-12-31 10:45:51 ....A          378               mgba-0.5.2\src\util\patch-ups.h
+2016-12-31 10:45:51 ....A          583               mgba-0.5.2\src\util\patch.h
+2016-12-31 10:45:51 ....A         1390               mgba-0.5.2\src\util\png-io.h
+2016-12-31 10:45:51 ....A       146763               mgba-0.5.2\src\third-party\libpng\png.h
+2016-12-31 10:45:51 ....A        22841               mgba-0.5.2\src\third-party\libpng\pngconf.h
+2016-12-31 10:45:51 ....A         5353               mgba-0.5.2\src\third-party\libpng\pngdebug.h
+2016-12-31 10:45:51 ....A         1117               mgba-0.5.2\src\third-party\libpng\contrib\visupng\PngFile.h
+2016-12-31 10:45:51 ....A        12329               mgba-0.5.2\src\third-party\libpng\pnginfo.h
+2016-12-31 10:45:51 ....A        80076               mgba-0.5.2\src\third-party\libpng\pngpriv.h
+2016-12-31 10:45:51 ....A        20377               mgba-0.5.2\src\third-party\libpng\pngstruct.h
+2016-12-31 10:45:51 ....A          642               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\decoder\pngusr.h
+2016-12-31 10:45:51 ....A          643               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\encoder\pngusr.h
+2016-12-31 10:45:51 ....A          645               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\preader\pngusr.h
+2016-12-31 10:45:51 ....A         2119               mgba-0.5.2\src\third-party\lzma\Ppmd.h
+2016-12-31 10:45:51 ....A         3822               mgba-0.5.2\src\third-party\lzma\Ppmd7.h
+2016-12-31 10:45:51 ....A          182               mgba-0.5.2\src\third-party\lzma\Precomp.h
+2016-12-31 10:45:51 ....A          188               mgba-0.5.2\src\third-party\lzma\Util\7z\Precomp.h
+2016-12-31 10:45:51 ....A          188               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\Precomp.h
+2016-12-31 10:45:51 ....A          427               mgba-0.5.2\src\platform\psp2\psp2-common.h
+2016-12-31 10:45:51 ....A         1144               mgba-0.5.2\src\platform\psp2\psp2-context.h
+2016-12-31 10:45:51 ....A         1415               mgba-0.5.2\src\third-party\zlib\contrib\puff\puff.h
+2016-12-31 10:45:51 ....A         3260               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\readpng.h
+2016-12-31 10:45:51 ....A         3800               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\readpng2.h
+2016-12-31 10:45:51 ....A          550               mgba-0.5.2\src\feature\gui\remap.h
+2016-12-31 10:45:51 ....A          765               mgba-0.5.2\src\third-party\libpng\contrib\visupng\resource.h
+2016-12-31 10:45:51 ....A          870               mgba-0.5.2\src\core\rewind.h
+2016-12-31 10:45:51 ....A          773               mgba-0.5.2\src\util\ring-fifo.h
+2016-12-31 10:45:51 ....A          538               mgba-0.5.2\src\platform\qt\ROMInfo.h
+2016-12-31 10:45:51 ....A          656               mgba-0.5.2\src\third-party\lzma\RotateDefs.h
+2016-12-31 10:45:51 ....A         1603               mgba-0.5.2\src\gba\rr\rr.h
+2016-12-31 10:45:51 ....A         3225               mgba-0.5.2\src\gba\savedata.h
+2016-12-31 10:45:51 ....A          532               mgba-0.5.2\src\platform\qt\SavestateButton.h
+2016-12-31 10:45:51 ....A          467               mgba-0.5.2\src\platform\psp2\sce-vfs.h
+2016-12-31 10:45:51 ....A          889               mgba-0.5.2\src\platform\sdl\sdl-audio.h
+2016-12-31 10:45:51 ....A         2713               mgba-0.5.2\src\platform\sdl\sdl-events.h
+2016-12-31 10:45:51 ....A         1133               mgba-0.5.2\src\platform\qt\SensorView.h
+2016-12-31 10:45:51 ....A         1424               mgba-0.5.2\src\core\serialize.h
+2016-12-31 10:45:51 ....A        10109               mgba-0.5.2\src\gb\serialize.h
+2016-12-31 10:45:51 ....A        10686               mgba-0.5.2\src\gba\serialize.h
+2016-12-31 10:45:51 ....A         1682               mgba-0.5.2\src\platform\qt\SettingsView.h
+2016-12-31 10:45:51 ....A          464               mgba-0.5.2\src\third-party\lzma\Sha256.h
+2016-12-31 10:45:51 ....A         1366               mgba-0.5.2\src\platform\qt\ShaderSelector.h
+2016-12-31 10:45:51 ....A          519               mgba-0.5.2\src\gba\extra\sharkport.h
+2016-12-31 10:45:51 ....A         5393               mgba-0.5.2\src\platform\qt\ShortcutController.h
+2016-12-31 10:45:51 ....A         1021               mgba-0.5.2\src\platform\qt\ShortcutView.h
+2016-12-31 10:45:51 ....A          814               mgba-0.5.2\src\gb\sio.h
+2016-12-31 10:45:51 ....A         1883               mgba-0.5.2\src\gba\sio.h
+2016-12-31 10:45:51 ....A         7545               mgba-0.5.2\src\util\socket.h
+2016-12-31 10:45:51 ....A        15634               mgba-0.5.2\src\gba\renderers\software-private.h
+2016-12-31 10:45:51 ....A          812               mgba-0.5.2\src\gb\renderers\software.h
+2016-12-31 10:45:51 ....A          335               mgba-0.5.2\src\third-party\lzma\Sort.h
+2016-12-31 10:45:51 ....A         1222               mgba-0.5.2\src\third-party\libpng\contrib\tools\sRGB.h
+2016-12-31 10:45:51 ....A         1309               mgba-0.5.2\src\util\string.h
+2016-12-31 10:45:51 ....A          832               mgba-0.5.2\src\platform\qt\Swatch.h
+2016-12-31 10:45:51 ....A         1116               mgba-0.5.2\src\core\sync.h
+2016-12-31 10:45:51 ....A         1421               mgba-0.5.2\src\util\table.h
+2016-12-31 10:45:51 ....A         1012               mgba-0.5.2\src\gba\renderers\thread-proxy.h
+2016-12-31 10:45:51 ....A         3005               mgba-0.5.2\src\core\thread.h
+2016-12-31 10:45:51 ....A         1677               mgba-0.5.2\src\util\threading.h
+2016-12-31 10:45:51 ....A         2153               mgba-0.5.2\src\platform\windows\threading.h
+2016-12-31 10:45:51 ....A         2381               mgba-0.5.2\src\platform\posix\threading.h
+2016-12-31 10:45:51 ....A         2853               mgba-0.5.2\src\platform\3ds\threading.h
+2016-12-31 10:45:51 ....A         3309               mgba-0.5.2\src\platform\psp2\threading.h
+2016-12-31 10:45:51 ....A         2071               mgba-0.5.2\src\third-party\lzma\Threads.h
+2016-12-31 10:45:51 ....A         1788               mgba-0.5.2\src\gba\renderers\tile-cache.h
+2016-12-31 10:45:51 ....A          856               mgba-0.5.2\src\platform\qt\TilePainter.h
+2016-12-31 10:45:51 ....A          945               mgba-0.5.2\src\platform\qt\TileView.h
+2016-12-31 10:45:51 ....A         1037               mgba-0.5.2\src\gb\timer.h
+2016-12-31 10:45:51 ....A         8472               mgba-0.5.2\src\third-party\zlib\trees.h
+2016-12-31 10:45:51 ....A        16352               mgba-0.5.2\src\third-party\zlib\contrib\minizip\unzip.h
+2016-12-31 10:45:51 ....A          524               mgba-0.5.2\src\gba\rr\vbm.h
+2016-12-31 10:45:51 ....A         3222               mgba-0.5.2\src\util\vector.h
+2016-12-31 10:45:51 ....A          552               mgba-0.5.2\src\core\version.h
+2016-12-31 10:45:51 ....A          997               mgba-0.5.2\src\gba\vfame.h
+2016-12-31 10:45:51 ....A          857               mgba-0.5.2\src\platform\qt\VFileDevice.h
+2016-12-31 10:45:51 ....A         3029               mgba-0.5.2\src\util\vfs.h
+2016-12-31 10:45:51 ....A         1207               mgba-0.5.2\src\platform\video-backend.h
+2016-12-31 10:45:51 ....A         3344               mgba-0.5.2\src\gba\renderers\video-software.h
+2016-12-31 10:45:51 ....A         4221               mgba-0.5.2\src\gb\video.h
+2016-12-31 10:45:51 ....A         6637               mgba-0.5.2\src\gba\video.h
+2016-12-31 10:45:51 ....A         2521               mgba-0.5.2\src\platform\qt\VideoView.h
+2016-12-31 10:45:51 ....A         4767               mgba-0.5.2\src\platform\qt\Window.h
+2016-12-31 10:45:51 ....A         4237               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\writepng.h
+2016-12-31 10:45:51 ....A         7696               mgba-0.5.2\src\third-party\lzma\Xz.h
+2016-12-31 10:45:51 ....A          641               mgba-0.5.2\src\third-party\lzma\XzCrc64.h
+2016-12-31 10:45:51 ....A          691               mgba-0.5.2\src\third-party\lzma\XzEnc.h
+2016-12-31 10:45:51 ....A         2467               mgba-0.5.2\src\third-party\zlib\contrib\iostream\zfstream.h
+2016-12-31 10:45:51 ....A        12240               mgba-0.5.2\src\third-party\zlib\contrib\iostream3\zfstream.h
+2016-12-31 10:45:51 ....A        15366               mgba-0.5.2\src\third-party\zlib\contrib\minizip\zip.h
+2016-12-31 10:45:51 ....A        87883               mgba-0.5.2\src\third-party\zlib\zlib.h
+2016-12-31 10:45:51 ....A         9283               mgba-0.5.2\src\third-party\zlib\contrib\iostream2\zstream.h
+2016-12-31 10:45:51 ....A         6766               mgba-0.5.2\src\third-party\zlib\zutil.h
+2016-12-31 10:45:51 ....A          451               mgba-0.5.2\src\platform\3ds\3ds-memory.c
+2016-12-31 10:45:51 ....A         8216               mgba-0.5.2\src\platform\3ds\3ds-vfs.c
+2016-12-31 10:45:51 ....A         1548               mgba-0.5.2\src\third-party\lzma\7zAlloc.c
+2016-12-31 10:45:51 ....A        45407               mgba-0.5.2\src\third-party\lzma\7zArcIn.c
+2016-12-31 10:45:51 ....A          563               mgba-0.5.2\src\third-party\lzma\7zBuf.c
+2016-12-31 10:45:51 ....A          940               mgba-0.5.2\src\third-party\lzma\7zBuf2.c
+2016-12-31 10:45:51 ....A         3213               mgba-0.5.2\src\third-party\lzma\7zCrc.c
+2016-12-31 10:45:51 ....A         3441               mgba-0.5.2\src\third-party\lzma\7zCrcOpt.c
+2016-12-31 10:45:51 ....A        15734               mgba-0.5.2\src\third-party\lzma\7zDec.c
+2016-12-31 10:45:51 ....A         6966               mgba-0.5.2\src\third-party\lzma\7zFile.c
+2016-12-31 10:45:51 ....A        14639               mgba-0.5.2\src\third-party\lzma\Util\7z\7zMain.c
+2016-12-31 10:45:51 ....A         4188               mgba-0.5.2\src\third-party\lzma\7zStream.c
+2016-12-31 10:45:51 ....A         4968               mgba-0.5.2\src\third-party\zlib\adler32.c
+2016-12-31 10:45:51 ....A         8599               mgba-0.5.2\src\third-party\lzma\Aes.c
+2016-12-31 10:45:51 ....A         4618               mgba-0.5.2\src\third-party\lzma\AesOpt.c
+2016-12-31 10:45:51 ....A         3272               mgba-0.5.2\src\third-party\lzma\Alloc.c
+2016-12-31 10:45:51 ....A         1358               mgba-0.5.2\src\third-party\libpng\contrib\arm-neon\android-ndk.c
+2016-12-31 10:45:51 ....A         8045               mgba-0.5.2\src\arm\arm.c
+2016-12-31 10:45:51 ....A         4640               mgba-0.5.2\src\third-party\libpng\arm\arm_init.c
+2016-12-31 10:45:51 ....A        11877               mgba-0.5.2\src\gba\audio.c
+2016-12-31 10:45:51 ....A        32315               mgba-0.5.2\src\gb\audio.c
+2016-12-31 10:45:51 ....A         6177               mgba-0.5.2\src\third-party\lzma\Bcj2.c
+2016-12-31 10:45:51 ....A         7524               mgba-0.5.2\src\third-party\lzma\Bcj2Enc.c
+2016-12-31 10:45:51 ....A        21738               mgba-0.5.2\src\gba\bios.c
+2016-12-31 10:45:51 ....A        17572               mgba-0.5.2\src\third-party\zlib\contrib\blast\blast.c
+2016-12-31 10:45:51 ....A        10212               mgba-0.5.2\src\third-party\blip_buf\blip_buf.c
+2016-12-31 10:45:51 ....A         3301               mgba-0.5.2\src\third-party\lzma\Bra.c
+2016-12-31 10:45:51 ....A         1799               mgba-0.5.2\src\third-party\lzma\Bra86.c
+2016-12-31 10:45:51 ....A         1839               mgba-0.5.2\src\third-party\lzma\BraIA64.c
+2016-12-31 10:45:51 ....A         7495               mgba-0.5.2\src\gb\cheats.c
+2016-12-31 10:45:51 ....A         8900               mgba-0.5.2\src\gba\cheats.c
+2016-12-31 10:45:51 ....A        10608               mgba-0.5.2\src\core\cheats.c
+2016-12-31 10:45:51 ....A         2416               mgba-0.5.2\src\third-party\libpng\contrib\tools\checksum-icc.c
+2016-12-31 10:45:51 ....A         6442               mgba-0.5.2\src\util\circle-buffer.c
+2016-12-31 10:45:51 ....A         2421               mgba-0.5.2\src\lr35902\debugger\cli-debugger.c
+2016-12-31 10:45:51 ....A         7423               mgba-0.5.2\src\arm\debugger\cli-debugger.c
+2016-12-31 10:45:51 ....A        24085               mgba-0.5.2\src\debugger\cli-debugger.c
+2016-12-31 10:45:51 ....A         3934               mgba-0.5.2\src\gb\cli.c
+2016-12-31 10:45:51 ....A         3991               mgba-0.5.2\src\gba\extra\cli.c
+2016-12-31 10:45:51 ....A         3529               mgba-0.5.2\src\platform\example\client-server\client.c
+2016-12-31 10:45:51 ....A         7722               mgba-0.5.2\src\gba\cheats\codebreaker.c
+2016-12-31 10:45:51 ....A         5810               mgba-0.5.2\src\feature\commandline.c
+2016-12-31 10:45:51 ....A         2529               mgba-0.5.2\src\third-party\zlib\compress.c
+2016-12-31 10:45:51 ....A        13894               mgba-0.5.2\src\core\config.c
+2016-12-31 10:45:51 ....A         6199               mgba-0.5.2\src\util\configuration.c
+2016-12-31 10:45:51 ....A         5733               mgba-0.5.2\src\core\core.c
+2016-12-31 10:45:51 ....A        17225               mgba-0.5.2\src\gba\core.c
+2016-12-31 10:45:51 ....A        17277               mgba-0.5.2\src\gb\core.c
+2016-12-31 10:45:51 ....A         4163               mgba-0.5.2\src\third-party\lzma\CpuArch.c
+2016-12-31 10:45:51 ....A         6064               mgba-0.5.2\src\util\crc32.c
+2016-12-31 10:45:51 ....A        13174               mgba-0.5.2\src\third-party\zlib\crc32.c
+2016-12-31 10:45:51 ....A         5827               mgba-0.5.2\src\platform\3ds\ctr-gpu.c
+2016-12-31 10:45:51 ....A         2119               mgba-0.5.2\src\platform\3ds\ctru-heap.c
+2016-12-31 10:45:51 ....A         3907               mgba-0.5.2\src\third-party\libpng\contrib\tools\cvtcolor.c
+2016-12-31 10:45:51 ....A         3257               mgba-0.5.2\src\debugger\debugger.c
+2016-12-31 10:45:51 ....A         4409               mgba-0.5.2\src\lr35902\debugger\debugger.c
+2016-12-31 10:45:51 ....A         8173               mgba-0.5.2\src\arm\debugger\debugger.c
+2016-12-31 10:45:51 ....A        18235               mgba-0.5.2\src\arm\decoder-arm.c
+2016-12-31 10:45:51 ....A        13535               mgba-0.5.2\src\arm\decoder-thumb.c
+2016-12-31 10:45:51 ....A        11647               mgba-0.5.2\src\arm\decoder.c
+2016-12-31 10:45:51 ....A         1015               mgba-0.5.2\src\third-party\libpng\scripts\def.c
+2016-12-31 10:45:51 ....A        71476               mgba-0.5.2\src\third-party\zlib\deflate.c
+2016-12-31 10:45:51 ....A         1337               mgba-0.5.2\src\third-party\lzma\Delta.c
+2016-12-31 10:45:51 ....A         3566               mgba-0.5.2\src\core\directories.c
+2016-12-31 10:45:51 ....A        24338               mgba-0.5.2\src\third-party\zlib\examples\enough.c
+2016-12-31 10:45:51 ....A        16855               mgba-0.5.2\src\third-party\zlib\test\example.c
+2016-12-31 10:45:51 ....A        40315               mgba-0.5.2\src\third-party\libpng\example.c
+2016-12-31 10:45:51 ....A         1624               mgba-0.5.2\src\util\export.c
+2016-12-31 10:45:51 ....A         1053               mgba-0.5.2\src\third-party\libpng\contrib\libtests\fakepng.c
+2016-12-31 10:45:51 ....A        17762               mgba-0.5.2\src\feature\ffmpeg\ffmpeg-encoder.c
+2016-12-31 10:45:51 ....A         5880               mgba-0.5.2\src\util\gui\file-select.c
+2016-12-31 10:45:51 ....A        10926               mgba-0.5.2\src\third-party\libpng\arm\filter_neon_intrinsics.c
+2016-12-31 10:45:51 ....A         8594               mgba-0.5.2\src\third-party\zlib\examples\fitblk.c
+2016-12-31 10:45:51 ....A         6079               mgba-0.5.2\src\util\gui\font-metrics.c
+2016-12-31 10:45:51 ....A         1735               mgba-0.5.2\src\util\gui\font.c
+2016-12-31 10:45:51 ....A         2075               mgba-0.5.2\src\util\formatting.c
+2016-12-31 10:45:51 ....A         4880               mgba-0.5.2\src\platform\test\fuzz-main.c
+2016-12-31 10:45:51 ....A         8395               mgba-0.5.2\src\gba\cheats\gameshark.c
+2016-12-31 10:45:51 ....A        16985               mgba-0.5.2\src\gb\gb.c
+2016-12-31 10:45:51 ....A        26364               mgba-0.5.2\src\gba\gba.c
+2016-12-31 10:45:51 ....A        18304               mgba-0.5.2\src\debugger\gdb-stub.c
+2016-12-31 10:45:51 ....A         1836               mgba-0.5.2\src\platform\sdl\gl-common.c
+2016-12-31 10:45:51 ....A         2687               mgba-0.5.2\src\platform\sdl\gl-sdl.c
+2016-12-31 10:45:51 ....A         4095               mgba-0.5.2\src\platform\opengl\gl.c
+2016-12-31 10:45:51 ....A         4291               mgba-0.5.2\src\platform\sdl\gles2-sdl.c
+2016-12-31 10:45:51 ....A        31766               mgba-0.5.2\src\platform\opengl\gles2.c
+2016-12-31 10:45:51 ....A         4060               mgba-0.5.2\src\feature\gui\gui-config.c
+2016-12-31 10:45:51 ....A         3777               mgba-0.5.2\src\platform\psp2\gui-font.c
+2016-12-31 10:45:51 ....A         4614               mgba-0.5.2\src\platform\3ds\gui-font.c
+2016-12-31 10:45:51 ....A         6716               mgba-0.5.2\src\platform\wii\gui-font.c
+2016-12-31 10:45:51 ....A        17724               mgba-0.5.2\src\feature\gui\gui-runner.c
+2016-12-31 10:45:51 ....A         2024               mgba-0.5.2\src\util\gui.c
+2016-12-31 10:45:51 ....A        25942               mgba-0.5.2\src\third-party\zlib\examples\gun.c
+2016-12-31 10:45:51 ....A        16977               mgba-0.5.2\src\third-party\zlib\examples\gzappend.c
+2016-12-31 10:45:51 ....A          678               mgba-0.5.2\src\third-party\zlib\gzclose.c
+2016-12-31 10:45:51 ....A        14132               mgba-0.5.2\src\third-party\zlib\examples\gzjoin.c
+2016-12-31 10:45:51 ....A        16415               mgba-0.5.2\src\third-party\zlib\gzlib.c
+2016-12-31 10:45:51 ....A        41467               mgba-0.5.2\src\third-party\zlib\examples\gzlog.c
+2016-12-31 10:45:51 ....A        18694               mgba-0.5.2\src\third-party\zlib\gzread.c
+2016-12-31 10:45:51 ....A        16199               mgba-0.5.2\src\third-party\zlib\gzwrite.c
+2016-12-31 10:45:51 ....A        18828               mgba-0.5.2\src\gba\hardware.c
+2016-12-31 10:45:51 ....A         2046               mgba-0.5.2\src\util\hash.c
+2016-12-31 10:45:51 ....A         3397               mgba-0.5.2\src\gba\hle-bios.c
+2016-12-31 10:45:51 ....A         4523               mgba-0.5.2\src\third-party\libpng\contrib\examples\iccfrompng.c
+2016-12-31 10:45:51 ....A         3306               mgba-0.5.2\src\feature\imagemagick\imagemagick-gif-encoder.c
+2016-12-31 10:45:51 ....A        22709               mgba-0.5.2\src\third-party\zlib\infback.c
+2016-12-31 10:45:51 ....A        21629               mgba-0.5.2\src\third-party\zlib\contrib\infback9\infback9.c
+2016-12-31 10:45:51 ....A        24700               mgba-0.5.2\src\third-party\zlib\test\infcover.c
+2016-12-31 10:45:51 ....A        40608               mgba-0.5.2\src\third-party\zlib\contrib\inflate86\inffas86.c
+2016-12-31 10:45:51 ....A         7577               mgba-0.5.2\src\third-party\zlib\contrib\masmx64\inffas8664.c
+2016-12-31 10:45:51 ....A        13455               mgba-0.5.2\src\third-party\zlib\inffast.c
+2016-12-31 10:45:51 ....A        53512               mgba-0.5.2\src\third-party\zlib\inflate.c
+2016-12-31 10:45:51 ....A        13404               mgba-0.5.2\src\third-party\zlib\contrib\infback9\inftree9.c
+2016-12-31 10:45:51 ....A        13028               mgba-0.5.2\src\third-party\zlib\inftrees.c
+2016-12-31 10:45:51 ....A         4992               mgba-0.5.2\src\third-party\inih\ini.c
+2016-12-31 10:45:51 ....A          515               mgba-0.5.2\src\gba\input.c
+2016-12-31 10:45:51 ....A        15599               mgba-0.5.2\src\core\input.c
+2016-12-31 10:45:51 ....A          918               mgba-0.5.2\src\core\interface.c
+2016-12-31 10:45:51 ....A          644               mgba-0.5.2\src\third-party\libpng\scripts\intprefix.c
+2016-12-31 10:45:51 ....A        13259               mgba-0.5.2\src\gb\io.c
+2016-12-31 10:45:51 ....A        21221               mgba-0.5.2\src\gba\io.c
+2016-12-31 10:45:51 ....A         8225               mgba-0.5.2\src\third-party\zlib\contrib\minizip\ioapi.c
+2016-12-31 10:45:51 ....A        14148               mgba-0.5.2\src\third-party\zlib\contrib\minizip\iowin32.c
+2016-12-31 10:45:51 ....A        29784               mgba-0.5.2\src\arm\isa-arm.c
+2016-12-31 10:45:51 ....A        26614               mgba-0.5.2\src\lr35902\isa-lr35902.c
+2016-12-31 10:45:51 ....A        14836               mgba-0.5.2\src\arm\isa-thumb.c
+2016-12-31 10:45:51 ....A         1738               mgba-0.5.2\src\core\library.c
+2016-12-31 10:45:51 ....A        18111               mgba-0.5.2\src\platform\libretro\libretro.c
+2016-12-31 10:45:51 ....A         3263               mgba-0.5.2\src\third-party\libpng\contrib\arm-neon\linux-auxv.c
+2016-12-31 10:45:51 ....A         4505               mgba-0.5.2\src\third-party\libpng\contrib\arm-neon\linux.c
+2016-12-31 10:45:51 ....A        11935               mgba-0.5.2\src\gba\sio\lockstep.c
+2016-12-31 10:45:51 ....A         1039               mgba-0.5.2\src\core\log.c
+2016-12-31 10:45:51 ....A         4504               mgba-0.5.2\src\lr35902\lr35902.c
+2016-12-31 10:45:51 ....A        25218               mgba-0.5.2\src\third-party\lzma\LzFind.c
+2016-12-31 10:45:51 ....A        23018               mgba-0.5.2\src\third-party\lzma\LzFindMt.c
+2016-12-31 10:45:51 ....A        10713               mgba-0.5.2\src\third-party\lzma\Lzma2Dec.c
+2016-12-31 10:45:51 ....A        12989               mgba-0.5.2\src\third-party\lzma\Lzma2Enc.c
+2016-12-31 10:45:51 ....A         1509               mgba-0.5.2\src\third-party\lzma\Lzma86Dec.c
+2016-12-31 10:45:51 ....A         2922               mgba-0.5.2\src\third-party\lzma\Lzma86Enc.c
+2016-12-31 10:45:51 ....A        30896               mgba-0.5.2\src\third-party\lzma\LzmaDec.c
+2016-12-31 10:45:51 ....A        66432               mgba-0.5.2\src\third-party\lzma\LzmaEnc.c
+2016-12-31 10:45:51 ....A         1323               mgba-0.5.2\src\third-party\lzma\LzmaLib.c
+2016-12-31 10:45:51 ....A          331               mgba-0.5.2\src\third-party\lzma\Util\LzmaLib\LzmaLibExports.c
+2016-12-31 10:45:51 ....A         6429               mgba-0.5.2\src\third-party\lzma\Util\Lzma\LzmaUtil.c
+2016-12-31 10:45:51 ....A         4598               mgba-0.5.2\src\platform\psp2\main.c
+2016-12-31 10:45:51 ....A         6141               mgba-0.5.2\src\platform\sdl\main.c
+2016-12-31 10:45:51 ....A        22121               mgba-0.5.2\src\platform\3ds\main.c
+2016-12-31 10:45:51 ....A        28836               mgba-0.5.2\src\platform\wii\main.c
+2016-12-31 10:45:51 ....A        40389               mgba-0.5.2\src\third-party\libpng\contrib\libtests\makepng.c
+2016-12-31 10:45:51 ....A        11149               mgba-0.5.2\src\third-party\libpng\contrib\tools\makesRGB.c
+2016-12-31 10:45:51 ....A        16288               mgba-0.5.2\src\gb\mbc.c
+2016-12-31 10:45:51 ....A         6222               mgba-0.5.2\src\arm\debugger\memory-debugger.c
+2016-12-31 10:45:51 ....A          494               mgba-0.5.2\src\platform\posix\memory.c
+2016-12-31 10:45:51 ....A          603               mgba-0.5.2\src\platform\windows\memory.c
+2016-12-31 10:45:51 ....A        21675               mgba-0.5.2\src\gb\memory.c
+2016-12-31 10:45:51 ....A        56530               mgba-0.5.2\src\gba\memory.c
+2016-12-31 10:45:51 ....A         9306               mgba-0.5.2\src\util\gui\menu.c
+2016-12-31 10:45:51 ....A        16889               mgba-0.5.2\src\gba\rr\mgm.c
+2016-12-31 10:45:51 ....A        15764               mgba-0.5.2\src\third-party\zlib\test\minigzip.c
+2016-12-31 10:45:51 ....A        17763               mgba-0.5.2\src\third-party\zlib\contrib\minizip\miniunz.c
+2016-12-31 10:45:51 ....A        15034               mgba-0.5.2\src\third-party\zlib\contrib\minizip\minizip.c
+2016-12-31 10:45:51 ....A         8317               mgba-0.5.2\src\third-party\lzma\MtCoder.c
+2016-12-31 10:45:51 ....A         8146               mgba-0.5.2\src\third-party\zlib\contrib\minizip\mztools.c
+2016-12-31 10:45:51 ....A         6987               mgba-0.5.2\src\util\nointro.c
+2016-12-31 10:45:51 ....A         3021               mgba-0.5.2\src\gb\overrides.c
+2016-12-31 10:45:51 ....A        12192               mgba-0.5.2\src\gba\overrides.c
+2016-12-31 10:45:51 ....A         3741               mgba-0.5.2\src\platform\sdl\pandora-sdl.c
+2016-12-31 10:45:51 ....A         9538               mgba-0.5.2\src\debugger\parser.c
+2016-12-31 10:45:51 ....A        11220               mgba-0.5.2\src\gba\cheats\parv3.c
+2016-12-31 10:45:51 ....A         3563               mgba-0.5.2\src\util\patch-fast.c
+2016-12-31 10:45:51 ....A         2282               mgba-0.5.2\src\util\patch-ips.c
+2016-12-31 10:45:51 ....A         6098               mgba-0.5.2\src\util\patch-ups.c
+2016-12-31 10:45:51 ....A          563               mgba-0.5.2\src\util\patch.c
+2016-12-31 10:45:51 ....A         7833               mgba-0.5.2\src\platform\test\perf-main.c
+2016-12-31 10:45:51 ....A         3949               mgba-0.5.2\src\third-party\libpng\contrib\tools\png-fix-itxt.c
+2016-12-31 10:45:51 ....A         6264               mgba-0.5.2\src\util\png-io.c
+2016-12-31 10:45:51 ....A       153327               mgba-0.5.2\src\third-party\libpng\png.c
+2016-12-31 10:45:51 ....A        11674               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\png2pnm.c
+2016-12-31 10:45:51 ....A        29160               mgba-0.5.2\src\third-party\libpng\pngerror.c
+2016-12-31 10:45:51 ....A        11818               mgba-0.5.2\src\third-party\libpng\contrib\visupng\PngFile.c
+2016-12-31 10:45:51 ....A       129571               mgba-0.5.2\src\third-party\libpng\contrib\tools\pngfix.c
+2016-12-31 10:45:51 ....A        33355               mgba-0.5.2\src\third-party\libpng\pngget.c
+2016-12-31 10:45:51 ....A        49847               mgba-0.5.2\src\third-party\libpng\contrib\libtests\pngimage.c
+2016-12-31 10:45:51 ....A         8201               mgba-0.5.2\src\third-party\libpng\pngmem.c
+2016-12-31 10:45:51 ....A        14900               mgba-0.5.2\src\third-party\libpng\contrib\examples\pngpixel.c
+2016-12-31 10:45:51 ....A        34300               mgba-0.5.2\src\third-party\libpng\pngpread.c
+2016-12-31 10:45:51 ....A       138304               mgba-0.5.2\src\third-party\libpng\pngread.c
+2016-12-31 10:45:51 ....A         3940               mgba-0.5.2\src\third-party\libpng\pngrio.c
+2016-12-31 10:45:51 ....A       168401               mgba-0.5.2\src\third-party\libpng\pngrtran.c
+2016-12-31 10:45:51 ....A       141536               mgba-0.5.2\src\third-party\libpng\pngrutil.c
+2016-12-31 10:45:51 ....A        47079               mgba-0.5.2\src\third-party\libpng\pngset.c
+2016-12-31 10:45:51 ....A       108378               mgba-0.5.2\src\third-party\libpng\contrib\libtests\pngstest.c
+2016-12-31 10:45:51 ....A        59346               mgba-0.5.2\src\third-party\libpng\pngtest.c
+2016-12-31 10:45:51 ....A         2798               mgba-0.5.2\src\third-party\libpng\contrib\examples\pngtopng.c
+2016-12-31 10:45:51 ....A        25108               mgba-0.5.2\src\third-party\libpng\pngtrans.c
+2016-12-31 10:45:51 ....A        34668               mgba-0.5.2\src\third-party\libpng\contrib\libtests\pngunknown.c
+2016-12-31 10:45:51 ....A       352924               mgba-0.5.2\src\third-party\libpng\contrib\libtests\pngvalid.c
+2016-12-31 10:45:51 ....A         5637               mgba-0.5.2\src\third-party\libpng\pngwio.c
+2016-12-31 10:45:51 ....A        78821               mgba-0.5.2\src\third-party\libpng\pngwrite.c
+2016-12-31 10:45:51 ....A        15328               mgba-0.5.2\src\third-party\libpng\pngwtran.c
+2016-12-31 10:45:51 ....A        89174               mgba-0.5.2\src\third-party\libpng\pngwutil.c
+2016-12-31 10:45:51 ....A        16128               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\pnm2png.c
+2016-12-31 10:45:51 ....A        17563               mgba-0.5.2\src\third-party\lzma\Ppmd7.c
+2016-12-31 10:45:51 ....A         4884               mgba-0.5.2\src\third-party\lzma\Ppmd7Dec.c
+2016-12-31 10:45:51 ....A         4557               mgba-0.5.2\src\third-party\lzma\Ppmd7Enc.c
+2016-12-31 10:45:51 ....A           93               mgba-0.5.2\src\third-party\lzma\Util\7z\Precomp.c
+2016-12-31 10:45:51 ....A           93               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\Precomp.c
+2016-12-31 10:45:51 ....A          615               mgba-0.5.2\src\third-party\libpng\scripts\prefix.c
+2016-12-31 10:45:51 ....A        12242               mgba-0.5.2\src\platform\psp2\psp2-context.c
+2016-12-31 10:45:51 ....A         1282               mgba-0.5.2\src\platform\psp2\psp2-memory.c
+2016-12-31 10:45:51 ....A        37886               mgba-0.5.2\src\third-party\zlib\contrib\puff\puff.c
+2016-12-31 10:45:51 ....A         4917               mgba-0.5.2\src\third-party\zlib\contrib\puff\pufftest.c
+2016-12-31 10:45:51 ....A         2727               mgba-0.5.2\src\third-party\libpng\contrib\libtests\readpng.c
+2016-12-31 10:45:51 ....A        10023               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\readpng.c
+2016-12-31 10:45:51 ....A        17894               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\readpng2.c
+2016-12-31 10:45:51 ....A         5535               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\readppm.c
+2016-12-31 10:45:51 ....A         2703               mgba-0.5.2\src\feature\gui\remap.c
+2016-12-31 10:45:51 ....A         3369               mgba-0.5.2\src\core\rewind.c
+2016-12-31 10:45:51 ....A         2479               mgba-0.5.2\src\util\ring-fifo.c
+2016-12-31 10:45:51 ....A        23776               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\rpng-win.c
+2016-12-31 10:45:51 ....A        30965               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\rpng-x.c
+2016-12-31 10:45:51 ....A        45403               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\rpng2-win.c
+2016-12-31 10:45:51 ....A        82074               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\rpng2-x.c
+2016-12-31 10:45:51 ....A         2087               mgba-0.5.2\src\gba\rr\rr.c
+2016-12-31 10:45:51 ....A        18112               mgba-0.5.2\src\gba\savedata.c
+2016-12-31 10:45:51 ....A         6886               mgba-0.5.2\src\platform\psp2\sce-vfs.c
+2016-12-31 10:45:51 ....A         3844               mgba-0.5.2\src\platform\sdl\sdl-audio.c
+2016-12-31 10:45:51 ....A        22457               mgba-0.5.2\src\platform\sdl\sdl-events.c
+2016-12-31 10:45:51 ....A         6544               mgba-0.5.2\src\gb\serialize.c
+2016-12-31 10:45:51 ....A         8400               mgba-0.5.2\src\gba\serialize.c
+2016-12-31 10:45:51 ....A        11296               mgba-0.5.2\src\core\serialize.c
+2016-12-31 10:45:51 ....A         5389               mgba-0.5.2\src\platform\example\client-server\server.c
+2016-12-31 10:45:51 ....A        15046               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\SfxSetup.c
+2016-12-31 10:45:51 ....A         5529               mgba-0.5.2\src\third-party\lzma\Sha256.c
+2016-12-31 10:45:51 ....A         5643               mgba-0.5.2\src\gba\extra\sharkport.c
+2016-12-31 10:45:51 ....A         1431               mgba-0.5.2\src\gb\sio.c
+2016-12-31 10:45:51 ....A         4831               mgba-0.5.2\src\gba\sio.c
+2016-12-31 10:45:51 ....A          298               mgba-0.5.2\src\platform\3ds\socket.c
+2016-12-31 10:45:51 ....A         7153               mgba-0.5.2\src\gba\renderers\software-bg.c
+2016-12-31 10:45:51 ....A        15706               mgba-0.5.2\src\gba\renderers\software-mode0.c
+2016-12-31 10:45:51 ....A        14613               mgba-0.5.2\src\gba\renderers\software-obj.c
+2016-12-31 10:45:51 ....A        19552               mgba-0.5.2\src\gb\renderers\software.c
+2016-12-31 10:45:51 ....A         2589               mgba-0.5.2\src\third-party\lzma\Sort.c
+2016-12-31 10:45:51 ....A         7000               mgba-0.5.2\src\util\string.c
+2016-12-31 10:45:51 ....A         5346               mgba-0.5.2\src\platform\sdl\sw-sdl.c
+2016-12-31 10:45:51 ....A          427               mgba-0.5.2\src\third-party\libpng\scripts\sym.c
+2016-12-31 10:45:51 ....A         1995               mgba-0.5.2\src\third-party\libpng\scripts\symbols.c
+2016-12-31 10:45:51 ....A         2599               mgba-0.5.2\src\core\sync.c
+2016-12-31 10:45:51 ....A         6388               mgba-0.5.2\src\util\table.c
+2016-12-31 10:45:51 ....A        28165               mgba-0.5.2\src\third-party\libpng\contrib\libtests\tarith.c
+2016-12-31 10:45:51 ....A         7643               mgba-0.5.2\src\third-party\zlib\contrib\testzlib\testzlib.c
+2016-12-31 10:45:51 ....A        14083               mgba-0.5.2\src\gba\renderers\thread-proxy.c
+2016-12-31 10:45:51 ....A        17191               mgba-0.5.2\src\core\thread.c
+2016-12-31 10:45:51 ....A         2765               mgba-0.5.2\src\third-party\lzma\Threads.c
+2016-12-31 10:45:51 ....A         7118               mgba-0.5.2\src\gba\renderers\tile-cache.c
+2016-12-31 10:45:51 ....A         6556               mgba-0.5.2\src\third-party\libpng\contrib\libtests\timepng.c
+2016-12-31 10:45:51 ....A         3451               mgba-0.5.2\src\gb\timer.c
+2016-12-31 10:45:51 ....A        44255               mgba-0.5.2\src\third-party\zlib\trees.c
+2016-12-31 10:45:51 ....A         2003               mgba-0.5.2\src\third-party\zlib\uncompr.c
+2016-12-31 10:45:51 ....A        16542               mgba-0.5.2\src\third-party\zlib\contrib\untgz\untgz.c
+2016-12-31 10:45:51 ....A        71054               mgba-0.5.2\src\third-party\zlib\contrib\minizip\unzip.c
+2016-12-31 10:45:51 ....A         7181               mgba-0.5.2\src\gba\rr\vbm.c
+2016-12-31 10:45:51 ....A          496               mgba-0.5.2\src\third-party\libpng\scripts\vers.c
+2016-12-31 10:45:51 ....A         9462               mgba-0.5.2\src\gba\vfame.c
+2016-12-31 10:45:51 ....A         2721               mgba-0.5.2\src\util\vfs\vfs-devlist.c
+2016-12-31 10:45:51 ....A         3889               mgba-0.5.2\src\util\vfs\vfs-dirent.c
+2016-12-31 10:45:51 ....A         4497               mgba-0.5.2\src\util\vfs\vfs-fd.c
+2016-12-31 10:45:51 ....A         4140               mgba-0.5.2\src\util\vfs\vfs-file.c
+2016-12-31 10:45:51 ....A         8138               mgba-0.5.2\src\util\vfs\vfs-lzma.c
+2016-12-31 10:45:51 ....A         6757               mgba-0.5.2\src\util\vfs\vfs-mem.c
+2016-12-31 10:45:51 ....A         4512               mgba-0.5.2\src\platform\windows\vfs-w32.c
+2016-12-31 10:45:51 ....A        14327               mgba-0.5.2\src\util\vfs\vfs-zip.c
+2016-12-31 10:45:51 ....A         5806               mgba-0.5.2\src\util\vfs.c
+2016-12-31 10:45:51 ....A        32165               mgba-0.5.2\src\gba\renderers\video-software.c
+2016-12-31 10:45:51 ....A        11119               mgba-0.5.2\src\gba\video.c
+2016-12-31 10:45:51 ....A        18835               mgba-0.5.2\src\gb\video.c
+2016-12-31 10:45:51 ....A        26233               mgba-0.5.2\src\third-party\libpng\contrib\visupng\VisualPng.c
+2016-12-31 10:45:51 ....A          422               mgba-0.5.2\src\platform\wii\wii-memory.c
+2016-12-31 10:45:51 ....A        31050               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\wpng.c
+2016-12-31 10:45:51 ....A        13286               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\writepng.c
+2016-12-31 10:45:51 ....A         2014               mgba-0.5.2\src\third-party\lzma\Xz.c
+2016-12-31 10:45:51 ....A         2192               mgba-0.5.2\src\third-party\lzma\XzCrc64.c
+2016-12-31 10:45:51 ....A         2031               mgba-0.5.2\src\third-party\lzma\XzCrc64Opt.c
+2016-12-31 10:45:51 ....A        23560               mgba-0.5.2\src\third-party\lzma\XzDec.c
+2016-12-31 10:45:51 ....A        13454               mgba-0.5.2\src\third-party\lzma\XzEnc.c
+2016-12-31 10:45:51 ....A         8556               mgba-0.5.2\src\third-party\lzma\XzIn.c
+2016-12-31 10:45:51 ....A        65850               mgba-0.5.2\src\third-party\zlib\contrib\minizip\zip.c
+2016-12-31 10:45:51 ....A         6323               mgba-0.5.2\src\third-party\zlib\examples\zpipe.c
+2016-12-31 10:45:51 ....A        15438               mgba-0.5.2\src\third-party\zlib\examples\zran.c
+2016-12-31 10:45:51 ....A         7414               mgba-0.5.2\src\third-party\zlib\zutil.c
+2016-12-31 10:45:51 ....A         2111               mgba-0.5.2\src\platform\qt\AboutScreen.cpp
+2016-12-31 10:45:51 ....A          948               mgba-0.5.2\src\platform\qt\ArchiveInspector.cpp
+2016-12-31 10:45:51 ....A         2213               mgba-0.5.2\src\platform\qt\AudioDevice.cpp
+2016-12-31 10:45:51 ....A         1238               mgba-0.5.2\src\platform\qt\AudioProcessor.cpp
+2016-12-31 10:45:51 ....A         2408               mgba-0.5.2\src\platform\qt\AudioProcessorQt.cpp
+2016-12-31 10:45:51 ....A         1748               mgba-0.5.2\src\platform\qt\AudioProcessorSDL.cpp
+2016-12-31 10:45:51 ....A         6437               mgba-0.5.2\src\platform\qt\CheatsModel.cpp
+2016-12-31 10:45:51 ....A         5149               mgba-0.5.2\src\platform\qt\CheatsView.cpp
+2016-12-31 10:45:51 ....A         7540               mgba-0.5.2\src\platform\qt\ConfigController.cpp
+2016-12-31 10:45:51 ....A         2473               mgba-0.5.2\src\platform\qt\Display.cpp
+2016-12-31 10:45:51 ....A        10864               mgba-0.5.2\src\platform\qt\DisplayGL.cpp
+2016-12-31 10:45:51 ....A         2211               mgba-0.5.2\src\platform\qt\DisplayQt.cpp
+2016-12-31 10:45:51 ....A        31967               mgba-0.5.2\src\platform\qt\GameController.cpp
+2016-12-31 10:45:51 ....A          909               mgba-0.5.2\src\platform\qt\GamepadAxisEvent.cpp
+2016-12-31 10:45:51 ....A         1066               mgba-0.5.2\src\platform\qt\GamepadButtonEvent.cpp
+2016-12-31 10:45:51 ....A         6648               mgba-0.5.2\src\platform\qt\GBAApp.cpp
+2016-12-31 10:45:51 ....A         9717               mgba-0.5.2\src\platform\qt\GBAKeyEditor.cpp
+2016-12-31 10:45:51 ....A          803               mgba-0.5.2\src\platform\qt\GBAOverride.cpp
+2016-12-31 10:45:51 ....A          971               mgba-0.5.2\src\platform\qt\GBOverride.cpp
+2016-12-31 10:45:51 ....A         2075               mgba-0.5.2\src\platform\qt\GDBController.cpp
+2016-12-31 10:45:51 ....A         4007               mgba-0.5.2\src\platform\qt\GDBWindow.cpp
+2016-12-31 10:45:51 ....A         2320               mgba-0.5.2\src\platform\qt\GIFView.cpp
+2016-12-31 10:45:51 ....A        13980               mgba-0.5.2\src\platform\qt\InputController.cpp
+2016-12-31 10:45:51 ....A         6901               mgba-0.5.2\src\platform\qt\InputProfile.cpp
+2016-12-31 10:45:51 ....A        30965               mgba-0.5.2\src\platform\qt\IOViewer.cpp
+2016-12-31 10:45:51 ....A         4072               mgba-0.5.2\src\platform\qt\KeyEditor.cpp
+2016-12-31 10:45:51 ....A         2123               mgba-0.5.2\src\platform\qt\LibraryModel.cpp
+2016-12-31 10:45:51 ....A         6119               mgba-0.5.2\src\platform\qt\LoadSaveState.cpp
+2016-12-31 10:45:51 ....A         2222               mgba-0.5.2\src\platform\qt\LogController.cpp
+2016-12-31 10:45:51 ....A         4491               mgba-0.5.2\src\platform\qt\LogView.cpp
+2016-12-31 10:45:51 ....A          575               mgba-0.5.2\src\platform\qt\main.cpp
+2016-12-31 10:45:51 ....A        17850               mgba-0.5.2\src\platform\qt\MemoryModel.cpp
+2016-12-31 10:45:51 ....A         5985               mgba-0.5.2\src\platform\qt\MemoryView.cpp
+2016-12-31 10:45:51 ....A         2878               mgba-0.5.2\src\platform\qt\MessagePainter.cpp
+2016-12-31 10:45:51 ....A         5662               mgba-0.5.2\src\platform\qt\MultiplayerController.cpp
+2016-12-31 10:45:51 ....A         7144               mgba-0.5.2\src\platform\qt\OverrideView.cpp
+2016-12-31 10:45:51 ....A         4828               mgba-0.5.2\src\platform\qt\PaletteView.cpp
+2016-12-31 10:45:51 ....A         2104               mgba-0.5.2\src\platform\qt\ROMInfo.cpp
+2016-12-31 10:45:51 ....A         1642               mgba-0.5.2\src\platform\qt\SavestateButton.cpp
+2016-12-31 10:45:51 ....A         4963               mgba-0.5.2\src\platform\qt\SensorView.cpp
+2016-12-31 10:45:51 ....A        13128               mgba-0.5.2\src\platform\qt\SettingsView.cpp
+2016-12-31 10:45:51 ....A         9267               mgba-0.5.2\src\platform\qt\ShaderSelector.cpp
+2016-12-31 10:45:51 ....A        17344               mgba-0.5.2\src\platform\qt\ShortcutController.cpp
+2016-12-31 10:45:51 ....A         3911               mgba-0.5.2\src\platform\qt\ShortcutView.cpp
+2016-12-31 10:45:51 ....A         1537               mgba-0.5.2\src\platform\qt\Swatch.cpp
+2016-12-31 10:45:51 ....A          526               mgba-0.5.2\src\third-party\zlib\contrib\iostream\test.cpp
+2016-12-31 10:45:51 ....A         1851               mgba-0.5.2\src\platform\qt\TilePainter.cpp
+2016-12-31 10:45:51 ....A         4253               mgba-0.5.2\src\platform\qt\TileView.cpp
+2016-12-31 10:45:51 ....A         1002               mgba-0.5.2\src\platform\qt\VFileDevice.cpp
+2016-12-31 10:45:51 ....A        14515               mgba-0.5.2\src\platform\qt\VideoView.cpp
+2016-12-31 10:45:51 ....A        55044               mgba-0.5.2\src\platform\qt\Window.cpp
+2016-12-31 10:45:51 ....A         5112               mgba-0.5.2\src\third-party\zlib\contrib\iostream\zfstream.cpp
+2016-12-31 10:45:51 ....A          711               mgba-0.5.2\src\third-party\zlib\contrib\iostream2\zstream_test.cpp
+2016-12-31 10:45:51 ....A         1530               mgba-0.5.2\src\third-party\lzma\7zVersion.rc
+2016-12-31 10:45:51 ....A         3958               mgba-0.5.2\src\third-party\libpng\scripts\pngwin.rc
+2016-12-31 10:45:51 ....A           78               mgba-0.5.2\src\third-party\lzma\Util\LzmaLib\resource.rc
+2016-12-31 10:45:51 ....A          111               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\resource.rc
+2016-12-31 10:45:51 ....A         3944               mgba-0.5.2\src\third-party\libpng\contrib\visupng\VisualPng.rc
+2016-12-31 10:45:51 ....A          948               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\zlib.rc
+2016-12-31 10:45:51 ....A          948               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\zlib.rc
+2016-12-31 10:45:51 ....A          948               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\zlib.rc
+2016-12-31 10:45:51 ....A         1138               mgba-0.5.2\src\third-party\zlib\win32\zlib1.rc
+2016-12-31 10:45:51 ....A         2500               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\AssemblyInfo.cs
+2016-12-31 10:45:51 ....A         8040               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\ChecksumImpl.cs
+2016-12-31 10:45:51 ....A         2246               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\CircularBuffer.cs
+2016-12-31 10:45:51 ....A         6335               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\CodecBase.cs
+2016-12-31 10:45:51 ....A         3992               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\Deflater.cs
+2016-12-31 10:45:51 ....A         9927               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\DotZLib.cs
+2016-12-31 10:45:51 ....A        11162               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\GZipStream.cs
+2016-12-31 10:45:51 ....A         3740               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\Inflater.cs
+2016-12-31 10:45:51 ....A         7684               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\UnitTests.cs
+2016-12-31 10:45:51 ....A        15687               mgba-0.5.2\src\third-party\zlib\contrib\pascal\example.pas
+2016-12-31 10:45:51 ....A        16412               mgba-0.5.2\src\third-party\zlib\contrib\delphi\ZLib.pas
+2016-12-31 10:45:51 ....A          186               mgba-0.5.2\src\third-party\zlib\contrib\delphi\ZLibConst.pas
+2016-12-31 10:45:51 ....A        10126               mgba-0.5.2\src\third-party\zlib\contrib\pascal\zlibpas.pas
+2016-12-31 10:45:51 ....A           45               mgba-0.5.2\src\third-party\lzma\Util\LzmaLib\LzmaLib.def
+2016-12-31 10:45:51 ....A         6462               mgba-0.5.2\src\third-party\libpng\scripts\symbols.def
+2016-12-31 10:45:51 ....A          778               mgba-0.5.2\src\third-party\zlib\old\os2\zlib.def
+2016-12-31 10:45:51 ....A         1391               mgba-0.5.2\src\third-party\zlib\win32\zlib.def
+2016-12-31 10:45:51 ....A         6756               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.def
+2016-12-31 10:45:51 ....A         6756               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\zlibvc.def
+2016-12-31 10:45:51 ....A         6756               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\zlibvc.def
+2016-12-31 10:45:51 ....A        16443               mgba-0.5.2\src\third-party\zlib\contrib\masmx64\gvmat64.asm
+2016-12-31 10:45:51 ....A        16392               mgba-0.5.2\src\third-party\zlib\contrib\masmx86\inffas32.asm
+2016-12-31 10:45:51 ....A        10583               mgba-0.5.2\src\third-party\zlib\contrib\masmx64\inffasx64.asm
+2016-12-31 10:45:51 ....A        15825               mgba-0.5.2\src\third-party\zlib\contrib\masmx86\match686.asm
+2016-12-31 10:45:51 ....A         6368               mgba-0.5.2\src\third-party\libpng\projects\owatcom\pngconfig.mak
+2016-12-31 10:45:51 ....A         2157               mgba-0.5.2\src\third-party\libpng\scripts\pnglibconf.mak
+2016-12-31 10:45:51 ....A          446               mgba-0.5.2\src\third-party\libpng\projects\visualc71\PRJ0041.mak
+2016-12-31 10:45:51 ....A         1439               mgba-0.5.2\src\third-party\zlib\watcom\watcom_f.mak
+2016-12-31 10:45:51 ....A         1407               mgba-0.5.2\src\third-party\zlib\watcom\watcom_l.mak
+2016-12-31 10:45:51 ....A         2360               mgba-0.5.2\src\third-party\zlib\contrib\delphi\zlibd32.mak
+2016-12-31 10:45:51 ....A         2360               mgba-0.5.2\src\third-party\zlib\contrib\pascal\zlibd32.mak
+2016-12-31 10:45:51 ....A         5396               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib\DotZLib.csproj
+2016-12-31 10:45:51 ....A        11796               mgba-0.5.2\src\third-party\libpng\projects\visualc71\libpng.vcproj
+2016-12-31 10:45:51 ....A        12939               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\miniunz.vcproj
+2016-12-31 10:45:51 ....A        12753               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\minizip.vcproj
+2016-12-31 10:45:51 ....A         7256               mgba-0.5.2\src\third-party\libpng\projects\visualc71\pngtest.vcproj
+2016-12-31 10:45:51 ....A        18951               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\testzlib.vcproj
+2016-12-31 10:45:51 ....A        12978               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\testzlibdll.vcproj
+2016-12-31 10:45:51 ....A         9683               mgba-0.5.2\src\third-party\libpng\projects\visualc71\zlib.vcproj
+2016-12-31 10:45:51 ....A        19532               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\zlibstat.vcproj
+2016-12-31 10:45:51 ....A        28028               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\zlibvc.vcproj
+2016-12-31 10:45:51 ....A          907               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib.sln
+2016-12-31 10:45:51 ....A         3604               mgba-0.5.2\src\third-party\libpng\projects\visualc71\libpng.sln
+2016-12-31 10:45:51 ....A         7798               mgba-0.5.2\src\third-party\libpng\projects\vstudio\vstudio.sln
+2016-12-31 10:45:51 ....A         8539               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\zlibvc.sln
+2016-12-31 10:45:51 ....A        10153               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.sln
+2016-12-31 10:45:51 ....A        10612               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9\zlibvc.sln
+2016-12-31 10:45:51 ....A         6636               mgba-0.5.2\src\third-party\lzma\Util\7z\7z.dsp
+2016-12-31 10:45:51 ....A         5249               mgba-0.5.2\src\third-party\lzma\Util\LzmaLib\LzmaLib.dsp
+2016-12-31 10:45:51 ....A         5382               mgba-0.5.2\src\third-party\lzma\Util\Lzma\LzmaUtil.dsp
+2016-12-31 10:45:51 ....A         5810               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\SfxSetup.dsp
+2016-12-31 10:45:51 ....A         5204               mgba-0.5.2\src\third-party\libpng\contrib\visupng\VisualPng.dsp
+2016-12-31 10:45:51 ....A          527               mgba-0.5.2\src\third-party\lzma\Util\7z\7z.dsw
+2016-12-31 10:45:51 ....A          537               mgba-0.5.2\src\third-party\lzma\Util\LzmaLib\LzmaLib.dsw
+2016-12-31 10:45:51 ....A          539               mgba-0.5.2\src\third-party\lzma\Util\Lzma\LzmaUtil.dsw
+2016-12-31 10:45:51 ....A          539               mgba-0.5.2\src\third-party\lzma\Util\SfxSetup\SfxSetup.dsw
+2016-12-31 10:45:51 ....A          541               mgba-0.5.2\src\third-party\libpng\contrib\visupng\VisualPng.dsw
+2016-12-31 10:45:51 ....A           92               mgba-0.5.2\src\third-party\zlib\contrib\masmx86\bld_ml32.bat
+2016-12-31 10:45:51 ....A           86               mgba-0.5.2\src\third-party\zlib\contrib\masmx64\bld_ml64.bat
+2016-12-31 10:45:51 ....A         1995               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\png2pnm.bat
+2016-12-31 10:45:51 ....A           56               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\pngminus.bat
+2016-12-31 10:45:51 ....A         1531               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\pnm2png.bat
+2016-12-31 10:45:51 ....A         3135               mgba-0.5.2\src\third-party\zlib\treebuild.xml
+2016-12-31 10:45:51 ....A        29824               mgba-0.5.2\src\third-party\zlib\examples\zlib_how.html
+2016-12-31 10:45:51 ....A         5728               mgba-0.5.2\src\third-party\libpng\scripts\checksym.awk
+2016-12-31 10:45:51 ....A         5634               mgba-0.5.2\src\third-party\libpng\scripts\dfn.awk
+2016-12-31 10:45:51 ....A        31622               mgba-0.5.2\src\third-party\libpng\scripts\options.awk
+2016-12-31 10:45:51 ....A         5430               mgba-0.5.2\tools\deploy-mac.py
+2016-12-31 10:45:51 ....A         6519               mgba-0.5.2\tools\perf.py
+2016-12-31 10:45:51 ....A          401               mgba-0.5.2\.travis-deps.sh
+2016-12-31 10:45:51 ....A         7963               mgba-0.5.2\src\third-party\libpng\autogen.sh
+2016-12-31 10:45:51 ....A         2266               mgba-0.5.2\src\third-party\libpng\contrib\libtests\gentests.sh
+2016-12-31 10:45:51 ....A         2926               mgba-0.5.2\src\third-party\libpng\contrib\tools\intgamma.sh
+2016-12-31 10:45:51 ....A       324089               mgba-0.5.2\src\third-party\libpng\ltmain.sh
+2016-12-31 10:45:51 ....A         1925               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\png2pnm.sh
+2016-12-31 10:45:51 ....A           60               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\pngminus.sh
+2016-12-31 10:45:51 ....A         1461               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\pnm2png.sh
+2016-12-31 10:45:51 ....A         1396               mgba-0.5.2\tools\sanitize-deb.sh
+2016-12-31 10:45:51 ....A         9335               mgba-0.5.2\src\third-party\zlib\doc\algorithm.txt
+2016-12-31 10:45:51 ....A         2363               mgba-0.5.2\src\platform\wii\CMakeLists.txt
+2016-12-31 10:45:51 ....A         3657               mgba-0.5.2\src\platform\psp2\CMakeLists.txt
+2016-12-31 10:45:51 ....A         3942               mgba-0.5.2\src\platform\sdl\CMakeLists.txt
+2016-12-31 10:45:51 ....A         5438               mgba-0.5.2\src\platform\3ds\CMakeLists.txt
+2016-12-31 10:45:51 ....A         7820               mgba-0.5.2\src\platform\qt\CMakeLists.txt
+2016-12-31 10:45:51 ....A         8098               mgba-0.5.2\src\third-party\zlib\CMakeLists.txt
+2016-12-31 10:45:51 ....A        13814               mgba-0.5.2\src\third-party\libpng\CMakeLists.txt
+2016-12-31 10:45:51 ....A        32004               mgba-0.5.2\CMakeLists.txt
+2016-12-31 10:45:51 ....A         2063               mgba-0.5.2\src\platform\wii\CMakeToolchain.txt
+2016-12-31 10:45:51 ....A         2178               mgba-0.5.2\src\platform\3ds\CMakeToolchain.txt
+2016-12-31 10:45:51 ....A        17921               mgba-0.5.2\src\third-party\zlib\win32\DLL_FAQ.txt
+2016-12-31 10:45:51 ....A       225390               mgba-0.5.2\src\third-party\libpng\libpng-manual.txt
+2016-12-31 10:45:51 ....A         1510               mgba-0.5.2\src\third-party\inih\LICENSE.txt
+2016-12-31 10:45:51 ....A        26940               mgba-0.5.2\src\third-party\blip_buf\license.txt
+2016-12-31 10:45:51 ....A         1359               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\LICENSE_1_0.txt
+2016-12-31 10:45:51 ....A          109               mgba-0.5.2\src\third-party\zlib\contrib\minizip\MiniZip64_Changes.txt
+2016-12-31 10:45:51 ....A         3048               mgba-0.5.2\src\third-party\zlib\contrib\minizip\MiniZip64_info.txt
+2016-12-31 10:45:51 ....A          106               mgba-0.5.2\res\patrons.txt
+2016-12-31 10:45:51 ....A         4868               mgba-0.5.2\src\third-party\zlib\win32\README-WIN32.txt
+2016-12-31 10:45:51 ....A          210               mgba-0.5.2\src\third-party\libpng\contrib\README.txt
+2016-12-31 10:45:51 ....A          873               mgba-0.5.2\src\third-party\zlib\contrib\masmx86\readme.txt
+2016-12-31 10:45:51 ....A          958               mgba-0.5.2\src\third-party\libpng\contrib\examples\README.txt
+2016-12-31 10:45:51 ....A         1087               mgba-0.5.2\src\third-party\libpng\contrib\tools\README.txt
+2016-12-31 10:45:51 ....A         1237               mgba-0.5.2\src\third-party\zlib\contrib\masmx64\readme.txt
+2016-12-31 10:45:51 ....A         2083               mgba-0.5.2\src\third-party\libpng\contrib\visupng\README.txt
+2016-12-31 10:45:51 ....A         2178               mgba-0.5.2\src\third-party\zlib\contrib\ada\readme.txt
+2016-12-31 10:45:51 ....A         2322               mgba-0.5.2\src\third-party\libpng\projects\visualc71\README.txt
+2016-12-31 10:45:51 ....A         2358               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\readme.txt
+2016-12-31 10:45:51 ....A         2500               mgba-0.5.2\src\third-party\zlib\contrib\delphi\readme.txt
+2016-12-31 10:45:51 ....A         2512               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\readme.txt
+2016-12-31 10:45:51 ....A         2731               mgba-0.5.2\src\third-party\libpng\projects\vstudio\readme.txt
+2016-12-31 10:45:51 ....A         3004               mgba-0.5.2\src\third-party\zlib\contrib\pascal\readme.txt
+2016-12-31 10:45:51 ....A         4063               mgba-0.5.2\src\third-party\libpng\scripts\README.txt
+2016-12-31 10:45:51 ....A         4991               mgba-0.5.2\src\third-party\zlib\as400\readme.txt
+2016-12-31 10:45:51 ....A         1634               mgba-0.5.2\src\third-party\libpng\projects\visualc71\README_zlib.txt
+2016-12-31 10:45:51 ....A        20502               mgba-0.5.2\src\third-party\zlib\doc\rfc1950.txt
+2016-12-31 10:45:51 ....A        36944               mgba-0.5.2\src\third-party\zlib\doc\rfc1951.txt
+2016-12-31 10:45:51 ....A        25037               mgba-0.5.2\src\third-party\zlib\doc\rfc1952.txt
+2016-12-31 10:45:51 ....A           13               mgba-0.5.2\src\third-party\zlib\contrib\blast\test.txt
+2016-12-31 10:45:51 ....A          205               mgba-0.5.2\src\third-party\zlib\contrib\testzlib\testzlib.txt
+2016-12-31 10:45:51 ....A         5193               mgba-0.5.2\src\third-party\zlib\doc\txtvsbin.txt
+2016-12-31 10:45:51 ....A         6060               mgba-0.5.2\src\third-party\zlib\old\visual-basic.txt
+2016-12-31 10:45:51 ....A          117               mgba-0.5.2\src\third-party\zlib\win32\VisualC.txt
+2016-12-31 10:45:51 ....A          139               mgba-0.5.2\res\shaders\pixelate.shader\manifest.ini
+2016-12-31 10:45:51 ....A          177               mgba-0.5.2\res\shaders\agb001.shader\manifest.ini
+2016-12-31 10:45:51 ....A          540               mgba-0.5.2\res\shaders\ags001.shader\manifest.ini
+2016-12-31 10:45:51 ....A          544               mgba-0.5.2\res\shaders\xbr.shader\manifest.ini
+2016-12-31 10:45:51 ....A         8734               mgba-0.5.2\src\third-party\zlib\zlib.3.pdf
+2016-12-31 10:45:51 ....A         2345               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\makevms.com
+2016-12-31 10:45:51 ....A         3555               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\makevms.com
+2016-12-31 10:45:51 ....A         4818               mgba-0.5.2\src\third-party\libpng\scripts\makevms.com
+2016-12-31 10:45:51 ....A          901               mgba-0.5.2\src\third-party\zlib\contrib\minizip\make_vms.com
+2016-12-31 10:45:51 ....A        26402               mgba-0.5.2\src\third-party\zlib\make_vms.com
+2016-12-31 10:45:51 ....A         1861               mgba-0.5.2\src\third-party\zlib\contrib\minizip\miniunzip.1
+2016-12-31 10:45:51 ....A         1462               mgba-0.5.2\src\third-party\zlib\contrib\minizip\minizip.1
+2016-12-31 10:45:51 ....A       273522               mgba-0.5.2\src\third-party\libpng\libpng.3
+2016-12-31 10:45:51 ....A          761               mgba-0.5.2\src\third-party\libpng\libpngpf.3
+2016-12-31 10:45:51 ....A         4236               mgba-0.5.2\src\third-party\zlib\zlib.3
+2016-12-31 10:45:51 ....A         8371               mgba-0.5.2\src\third-party\libpng\scripts\makefile.32sunu
+2016-12-31 10:45:51 ....A         2410               mgba-0.5.2\src\third-party\libpng\png.5
+2016-12-31 10:45:51 ....A         3025               mgba-0.5.2\doc\mgba-qt.6
+2016-12-31 10:45:51 ....A         5695               mgba-0.5.2\doc\mgba.6
+2016-12-31 10:45:51 ....A         8406               mgba-0.5.2\src\third-party\libpng\scripts\makefile.64sunu
+2016-12-31 10:45:51 ....A         1622               mgba-0.5.2\src\third-party\zlib\contrib\asm686\README.686
+2016-12-31 10:45:51 ....A          786               mgba-0.5.2\src\third-party\zlib\contrib\minizip\configure.ac
+2016-12-31 10:45:51 ....A        11737               mgba-0.5.2\src\third-party\libpng\configure.ac
+2016-12-31 10:45:51 ....A         1988               mgba-0.5.2\src\third-party\libpng\scripts\makefile.acorn
+2016-12-31 10:45:51 ....A         3717               mgba-0.5.2\src\third-party\zlib\contrib\ada\buffer_demo.adb
+2016-12-31 10:45:51 ....A         4467               mgba-0.5.2\src\third-party\zlib\contrib\ada\mtest.adb
+2016-12-31 10:45:51 ....A         4248               mgba-0.5.2\src\third-party\zlib\contrib\ada\read.adb
+2016-12-31 10:45:51 ....A        13180               mgba-0.5.2\src\third-party\zlib\contrib\ada\test.adb
+2016-12-31 10:45:51 ....A         5996               mgba-0.5.2\src\third-party\zlib\contrib\ada\zlib-streams.adb
+2016-12-31 10:45:51 ....A         3329               mgba-0.5.2\src\third-party\zlib\contrib\ada\zlib-thin.adb
+2016-12-31 10:45:51 ....A        20400               mgba-0.5.2\src\third-party\zlib\contrib\ada\zlib.adb
+2016-12-31 10:45:51 ....A         4330               mgba-0.5.2\src\third-party\zlib\contrib\ada\zlib-streams.ads
+2016-12-31 10:45:51 ....A        15819               mgba-0.5.2\src\third-party\zlib\contrib\ada\zlib-thin.ads
+2016-12-31 10:45:51 ....A        13594               mgba-0.5.2\src\third-party\zlib\contrib\ada\zlib.ads
+2016-12-31 10:45:51 ....A         3949               mgba-0.5.2\src\third-party\libpng\scripts\makefile.aix
+2016-12-31 10:45:51 ....A          818               mgba-0.5.2\src\third-party\zlib\contrib\minizip\Makefile.am
+2016-12-31 10:45:51 ....A        13239               mgba-0.5.2\src\third-party\libpng\Makefile.am
+2016-12-31 10:45:51 ....A         1495               mgba-0.5.2\src\third-party\libpng\scripts\makefile.amiga
+2016-12-31 10:45:51 ....A         2205               mgba-0.5.2\src\third-party\libpng\scripts\makefile.atari
+2016-12-31 10:45:51 ....A         3940               mgba-0.5.2\src\third-party\libpng\scripts\makefile.bc32
+2016-12-31 10:45:51 ....A         7597               mgba-0.5.2\src\third-party\libpng\scripts\makefile.beos
+2016-12-31 10:45:51 ....A         2587               mgba-0.5.2\src\third-party\zlib\win32\Makefile.bor
+2016-12-31 10:45:51 ....A         3098               mgba-0.5.2\src\third-party\zlib\msdos\Makefile.bor
+2016-12-31 10:45:51 ....A         4257               mgba-0.5.2\src\third-party\libpng\scripts\makefile.bor
+2016-12-31 10:45:51 ....A         1175               mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib.build
+2016-12-31 10:45:51 ....A         1490               mgba-0.5.2\src\third-party\zlib\contrib\iostream3\test.cc
+2016-12-31 10:45:51 ....A        13447               mgba-0.5.2\src\third-party\zlib\contrib\iostream3\zfstream.cc
+2016-12-31 10:45:51 ....A         3232               mgba-0.5.2\src\third-party\libpng\scripts\makefile.cegcc
+2016-12-31 10:45:51 ....A       466176               mgba-0.5.2\src\platform\3ds\banner.cgfx
+2016-12-31 10:45:51 ....A          988               mgba-0.5.2\.clang-format
+2016-12-31 10:45:51 ....A         5291               mgba-0.5.2\src\third-party\zlib\as400\compile.clp
+2016-12-31 10:45:51 ....A          296               mgba-0.5.2\src\platform\qt\ts.cmake
+2016-12-31 10:45:51 ....A         1857               mgba-0.5.2\version.cmake
+2016-12-31 10:45:51 ....A        15559               mgba-0.5.2\src\third-party\zlib\zconf.h.cmakein
+2016-12-31 10:45:51 ....A          294               mgba-0.5.2\src\third-party\zlib\zlib.pc.cmakein
+2016-12-31 10:45:51 ....A         3183               mgba-0.5.2\src\third-party\zlib\contrib\README.contrib
+2016-12-31 10:45:51 ....A         7479               mgba-0.5.2\src\third-party\libpng\scripts\makefile.darwin
+2016-12-31 10:45:51 ....A      1767557               mgba-0.5.2\res\nointro.dat
+2016-12-31 10:45:51 ....A         6905               mgba-0.5.2\src\third-party\libpng\scripts\makefile.dec
+2016-12-31 10:45:51 ....A          348               mgba-0.5.2\res\mgba-qt.desktop
+2016-12-31 10:45:51 ....A        37007               mgba-0.5.2\src\third-party\libpng\scripts\pnglibconf.dfa
+2016-12-31 10:45:51 ....A          497               mgba-0.5.2\src\third-party\libpng\pngusr.dfa
+2016-12-31 10:45:51 ....A         1052               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\preader\pngusr.dfa
+2016-12-31 10:45:51 ....A         1066               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\encoder\pngusr.dfa
+2016-12-31 10:45:51 ....A         1115               mgba-0.5.2\src\third-party\libpng\contrib\pngminim\decoder\pngusr.dfa
+2016-12-31 10:45:51 ....A         2086               mgba-0.5.2\src\third-party\libpng\contrib\conftest\read.dfa
+2016-12-31 10:45:51 ....A         1327               mgba-0.5.2\src\third-party\libpng\contrib\conftest\simple.dfa
+2016-12-31 10:45:51 ....A         1359               mgba-0.5.2\src\third-party\libpng\contrib\conftest\s_read.dfa
+2016-12-31 10:45:51 ....A         1228               mgba-0.5.2\src\third-party\libpng\contrib\conftest\s_write.dfa
+2016-12-31 10:45:51 ....A         1510               mgba-0.5.2\src\third-party\libpng\contrib\conftest\write.dfa
+2016-12-31 10:45:51 ....A         2554               mgba-0.5.2\src\third-party\libpng\scripts\makefile.dj2
+2016-12-31 10:45:51 ....A         2615               mgba-0.5.2\src\third-party\zlib\msdos\Makefile.dj2
+2016-12-31 10:45:51 ....A         1442               mgba-0.5.2\src\third-party\zlib\msdos\Makefile.emx
+2016-12-31 10:45:51 ....A         1451               mgba-0.5.2\src\third-party\zlib\old\Makefile.emx
+2016-12-31 10:45:51 ....A         1817               mgba-0.5.2\src\third-party\zlib\examples\README.examples
+2016-12-31 10:45:51 ....A          921               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\miniunz.vcxproj.filters
+2016-12-31 10:45:51 ....A          921               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\minizip.vcxproj.filters
+2016-12-31 10:45:51 ....A         2139               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\testzlib.vcxproj.filters
+2016-12-31 10:45:51 ....A          923               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\testzlibdll.vcxproj.filters
+2016-12-31 10:45:51 ....A         2514               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\zlibstat.vcxproj.filters
+2016-12-31 10:45:51 ....A         4039               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.vcxproj.filters
+2016-12-31 10:45:51 ....A         1829               mgba-0.5.2\src\third-party\libpng\scripts\makefile.freebsd
+2016-12-31 10:45:51 ....A          701               mgba-0.5.2\res\shaders\agb001.shader\agb001.fs
+2016-12-31 10:45:51 ....A          846               mgba-0.5.2\res\shaders\ags001.shader\ags001-light.fs
+2016-12-31 10:45:51 ....A          654               mgba-0.5.2\res\shaders\ags001.shader\ags001.fs
+2016-12-31 10:45:51 ....A         8992               mgba-0.5.2\res\shaders\xbr.shader\xbr.fs
+2016-12-31 10:45:51 ....A          756               mgba-0.5.2\src\third-party\lzma\Util\Lzma\makefile.gcc
+2016-12-31 10:45:51 ....A         1629               mgba-0.5.2\src\third-party\lzma\Util\7z\makefile.gcc
+2016-12-31 10:45:51 ....A         3043               mgba-0.5.2\src\third-party\libpng\scripts\makefile.gcc
+2016-12-31 10:45:51 ....A         5117               mgba-0.5.2\src\third-party\zlib\win32\Makefile.gcc
+2016-12-31 10:45:51 ....A           24               mgba-0.5.2\.gitignore
+2016-12-31 10:45:51 ....A          511               mgba-0.5.2\src\third-party\zlib\contrib\ada\zlib.gpr
+2016-12-31 10:45:51 ....A        42938               mgba-0.5.2\src\third-party\libpng\config.guess
+2016-12-31 10:45:51 ....A         7696               mgba-0.5.2\src\third-party\libpng\scripts\makefile.hp64
+2016-12-31 10:45:51 ....A         7879               mgba-0.5.2\src\third-party\libpng\scripts\makefile.hpgcc
+2016-12-31 10:45:51 ....A         7560               mgba-0.5.2\src\third-party\libpng\scripts\makefile.hpux
+2016-12-31 10:45:51 ....A         2882               mgba-0.5.2\src\third-party\libpng\scripts\makefile.ibmc
+2016-12-31 10:45:51 ....A      1130692               mgba-0.5.2\res\mgba.icns
+2016-12-31 10:45:51 ....A         5979               mgba-0.5.2\src\platform\3ds\cia.rsf.in
+2016-12-31 10:45:51 ....A         3080               mgba-0.5.2\src\third-party\libpng\config.h.in
+2016-12-31 10:45:51 ....A         1505               mgba-0.5.2\src\platform\openemu\Info.plist.in
+2016-12-31 10:45:51 ....A         1511               mgba-0.5.2\res\info.plist.in
+2016-12-31 10:45:51 ....A           46               mgba-0.5.2\tools\debian\libmgba.install.in
+2016-12-31 10:45:51 ....A         1701               mgba-0.5.2\src\third-party\libpng\scripts\libpng-config-body.in
+2016-12-31 10:45:51 ....A          388               mgba-0.5.2\src\third-party\libpng\scripts\libpng-config-head.in
+2016-12-31 10:45:51 ....A         2396               mgba-0.5.2\src\third-party\libpng\libpng-config.in
+2016-12-31 10:45:51 ....A          210               mgba-0.5.2\src\third-party\libpng\scripts\libpng.pc.in
+2016-12-31 10:45:51 ....A          293               mgba-0.5.2\src\third-party\libpng\libpng.pc.in
+2016-12-31 10:45:51 ....A           59               mgba-0.5.2\tools\debian\libretro-mgba.install.in
+2016-12-31 10:45:51 ....A         8985               mgba-0.5.2\src\third-party\zlib\Makefile.in
+2016-12-31 10:45:51 ....A        89366               mgba-0.5.2\src\third-party\libpng\Makefile.in
+2016-12-31 10:45:51 ....A          248               mgba-0.5.2\src\platform\wii\meta.xml.in
+2016-12-31 10:45:51 ....A          862               mgba-0.5.2\res\mgba.rc.in
+2016-12-31 10:45:51 ....A          263               mgba-0.5.2\src\third-party\zlib\contrib\minizip\minizip.pc.in
+2016-12-31 10:45:51 ....A          460               mgba-0.5.2\src\platform\psp2\template.xml.in
+2016-12-31 10:45:51 ....A          619               mgba-0.5.2\src\core\version.c.in
+2016-12-31 10:45:51 ....A        15508               mgba-0.5.2\src\third-party\zlib\zconf.h.in
+2016-12-31 10:45:51 ....A          254               mgba-0.5.2\src\third-party\zlib\zlib.pc.in
+2016-12-31 10:45:51 ....A        15508               mgba-0.5.2\src\third-party\zlib\zconf.h.included
+2016-12-31 10:45:51 ....A           75               mgba-0.5.2\tools\debian\mgba-qt.install
+2016-12-31 10:45:51 ....A           13               mgba-0.5.2\tools\debian\mgba-sdl.install
+2016-12-31 10:45:51 ....A         3763               mgba-0.5.2\src\third-party\libpng\scripts\makefile.intel
+2016-12-31 10:45:51 ....A         4048               mgba-0.5.2\src\third-party\libpng\scripts\makefile.knr
+2016-12-31 10:45:51 ....A         8214               mgba-0.5.2\src\third-party\libpng\scripts\makefile.linux
+2016-12-31 10:45:51 ....A           50               mgba-0.5.2\src\third-party\libpng\scripts\macro.lst
+2016-12-31 10:45:51 ....A         7742               mgba-0.5.2\src\platform\openemu\mGBAGameCore.m
+2016-12-31 10:45:51 ....A        44739               mgba-0.5.2\src\third-party\libpng\aclocal.m4
+2016-12-31 10:45:51 ....A       305723               mgba-0.5.2\src\third-party\libpng\scripts\libtool.m4
+2016-12-31 10:45:51 ....A        14514               mgba-0.5.2\src\third-party\libpng\scripts\ltoptions.m4
+2016-12-31 10:45:51 ....A         4384               mgba-0.5.2\src\third-party\libpng\scripts\ltsugar.m4
+2016-12-31 10:45:51 ....A          699               mgba-0.5.2\src\third-party\libpng\scripts\ltversion.m4
+2016-12-31 10:45:51 ....A         6140               mgba-0.5.2\src\third-party\libpng\scripts\lt~obsolete.m4
+2016-12-31 10:45:51 ....A          444               mgba-0.5.2\src\gba\hle-bios.make
+2016-12-31 10:45:51 ....A           14               mgba-0.5.2\tools\debian\mgba-qt.manpages
+2016-12-31 10:45:51 ....A           11               mgba-0.5.2\tools\debian\mgba-sdl.manpages
+2016-12-31 10:45:51 ....A         1192               mgba-0.5.2\src\third-party\zlib\zlib.map
+2016-12-31 10:45:51 ....A         3940               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\Makefile.mingw32
+2016-12-31 10:45:51 ....A         3589               mgba-0.5.2\src\third-party\libpng\scripts\makefile.mips
+2016-12-31 10:45:51 ....A         1545               mgba-0.5.2\src\third-party\zlib\old\descrip.mms
+2016-12-31 10:45:51 ....A         2074               mgba-0.5.2\src\third-party\libpng\scripts\descrip.mms
+2016-12-31 10:45:51 ....A          281               mgba-0.5.2\src\third-party\zlib\contrib\untgz\Makefile.msc
+2016-12-31 10:45:51 ....A         2924               mgba-0.5.2\src\third-party\zlib\msdos\Makefile.msc
+2016-12-31 10:45:51 ....A         3461               mgba-0.5.2\src\third-party\libpng\scripts\makefile.msc
+2016-12-31 10:45:51 ....A         4937               mgba-0.5.2\src\third-party\zlib\win32\Makefile.msc
+2016-12-31 10:45:51 ....A         6315               mgba-0.5.2\src\third-party\libpng\scripts\makefile.msys
+2016-12-31 10:45:51 ....A         1513               mgba-0.5.2\src\third-party\libpng\scripts\makefile.ne12bsd
+2016-12-31 10:45:51 ....A         1503               mgba-0.5.2\src\third-party\libpng\scripts\makefile.netbsd
+2016-12-31 10:45:51 ....A         2668               mgba-0.5.2\src\third-party\libpng\scripts\makefile.openbsd
+2016-12-31 10:45:51 ....A         4104               mgba-0.5.2\src\third-party\zlib\old\os2\Makefile.os2
+2016-12-31 10:45:51 ....A         2408               mgba-0.5.2\src\platform\3ds\uishader.g.pica
+2016-12-31 10:45:51 ....A          849               mgba-0.5.2\src\platform\3ds\uishader.v.pica
+2016-12-31 10:45:51 ....A            8               mgba-0.5.2\src\third-party\zlib\contrib\blast\test.pk
+2016-12-31 10:45:51 ....A           90               mgba-0.5.2\src\third-party\libpng\scripts\SCOPTIONS.ppc
+2016-12-31 10:45:51 ....A         1036               mgba-0.5.2\src\third-party\libpng\scripts\smakefile.ppc
+2016-12-31 10:45:51 ....A         7400               mgba-0.5.2\src\third-party\libpng\scripts\pnglibconf.h.prebuilt
+2016-12-31 10:45:51 ....A         1628               mgba-0.5.2\src\third-party\libpng\projects\vstudio\zlib.props
+2016-12-31 10:45:51 ....A         1981               mgba-0.5.2\src\third-party\zlib\amiga\Makefile.pup
+2016-12-31 10:45:51 ....A         6427               mgba-0.5.2\src\third-party\zlib\qnx\package.qpg
+2016-12-31 10:45:51 ....A        48812               mgba-0.5.2\res\keymap.qpic
+2016-12-31 10:45:51 ....A          201               mgba-0.5.2\src\platform\qt\resources.qrc
+2016-12-31 10:45:51 ....A        32768               mgba-0.5.2\src\platform\3ds\icons.raw
+2016-12-31 10:45:51 ....A         2517               mgba-0.5.2\src\third-party\zlib\contrib\puff\zeros.raw
+2016-12-31 10:45:51 ....A         3767               mgba-0.5.2\src\third-party\zlib\old\Makefile.riscos
+2016-12-31 10:45:51 ....A        12418               mgba-0.5.2\src\third-party\zlib\contrib\amd64\amd64-match.S
+2016-12-31 10:45:51 ....A         1624               mgba-0.5.2\src\util\arm-algo.S
+2016-12-31 10:45:51 ....A         8339               mgba-0.5.2\src\third-party\libpng\arm\filter_neon.S
+2016-12-31 10:45:51 ....A        16413               mgba-0.5.2\src\third-party\zlib\contrib\gcc_gvmat64\gvmat64.S
+2016-12-31 10:45:51 ....A         2905               mgba-0.5.2\src\gba\hle-bios.s
+2016-12-31 10:45:51 ....A        42842               mgba-0.5.2\src\third-party\zlib\contrib\inflate86\inffast.S
+2016-12-31 10:45:51 ....A        10365               mgba-0.5.2\src\third-party\zlib\contrib\asm686\match.S
+2016-12-31 10:45:51 ....A         1847               mgba-0.5.2\src\third-party\zlib\amiga\Makefile.sas
+2016-12-31 10:45:51 ....A         7528               mgba-0.5.2\src\third-party\libpng\scripts\makefile.sco
+2016-12-31 10:45:51 ....A         7649               mgba-0.5.2\src\third-party\libpng\scripts\makefile.sggcc
+2016-12-31 10:45:51 ....A         2990               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\Makefile.sgi
+2016-12-31 10:45:51 ....A         7733               mgba-0.5.2\src\third-party\libpng\scripts\makefile.sgi
+2016-12-31 10:45:51 ....A         8432               mgba-0.5.2\src\third-party\libpng\scripts\makefile.so9
+2016-12-31 10:45:51 ....A         8291               mgba-0.5.2\src\third-party\libpng\scripts\makefile.solaris
+2016-12-31 10:45:51 ....A         8259               mgba-0.5.2\src\third-party\libpng\scripts\makefile.solaris-x86
+2016-12-31 10:45:51 ....A         1386               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\makefile.std
+2016-12-31 10:45:51 ....A         4910               mgba-0.5.2\src\third-party\libpng\scripts\makefile.std
+2016-12-31 10:45:51 ....A        35987               mgba-0.5.2\src\third-party\libpng\config.sub
+2016-12-31 10:45:51 ....A         3964               mgba-0.5.2\src\third-party\libpng\scripts\makefile.sunos
+2016-12-31 10:45:51 ....A         2657               mgba-0.5.2\src\third-party\zlib\msdos\Makefile.tc
+2016-12-31 10:45:51 ....A          707               mgba-0.5.2\src\third-party\libpng\contrib\pngminus\makefile.tc3
+2016-12-31 10:45:51 ....A         3275               mgba-0.5.2\src\third-party\libpng\scripts\makefile.tc3
+2016-12-31 10:45:51 ....A         2171               mgba-0.5.2\src\third-party\libpng\projects\owatcom\libpng.tgt
+2016-12-31 10:45:51 ....A         2565               mgba-0.5.2\src\third-party\libpng\projects\owatcom\pngstest.tgt
+2016-12-31 10:45:51 ....A         1213               mgba-0.5.2\src\third-party\libpng\projects\owatcom\pngtest.tgt
+2016-12-31 10:45:51 ....A         1397               mgba-0.5.2\src\third-party\libpng\projects\owatcom\pngvalid.tgt
+2016-12-31 10:45:51 ....A       262208               mgba-0.5.2\src\platform\wii\font.tpl
+2016-12-31 10:45:51 ....A       131136               mgba-0.5.2\src\platform\wii\icons.tpl
+2016-12-31 10:45:51 ....A       142670               mgba-0.5.2\src\platform\qt\ts\mgba-es.ts
+2016-12-31 10:45:51 ....A         5982               mgba-0.5.2\src\platform\qt\AboutScreen.ui
+2016-12-31 10:45:51 ....A         1834               mgba-0.5.2\src\platform\qt\ArchiveInspector.ui
+2016-12-31 10:45:51 ....A         2918               mgba-0.5.2\src\platform\qt\CheatsView.ui
+2016-12-31 10:45:51 ....A         4955               mgba-0.5.2\src\platform\qt\GIFView.ui
+2016-12-31 10:45:51 ....A        11500               mgba-0.5.2\src\platform\qt\IOViewer.ui
+2016-12-31 10:45:51 ....A         7295               mgba-0.5.2\src\platform\qt\LoadSaveState.ui
+2016-12-31 10:45:51 ....A         4072               mgba-0.5.2\src\platform\qt\LogView.ui
+2016-12-31 10:45:51 ....A         5735               mgba-0.5.2\src\platform\qt\MemoryView.ui
+2016-12-31 10:45:51 ....A         9982               mgba-0.5.2\src\platform\qt\OverrideView.ui
+2016-12-31 10:45:51 ....A        10136               mgba-0.5.2\src\platform\qt\PaletteView.ui
+2016-12-31 10:45:51 ....A         3084               mgba-0.5.2\src\platform\qt\ROMInfo.ui
+2016-12-31 10:45:51 ....A        10132               mgba-0.5.2\src\platform\qt\SensorView.ui
+2016-12-31 10:45:51 ....A        28659               mgba-0.5.2\src\platform\qt\SettingsView.ui
+2016-12-31 10:45:51 ....A         3210               mgba-0.5.2\src\platform\qt\ShaderSelector.ui
+2016-12-31 10:45:51 ....A         2146               mgba-0.5.2\src\platform\qt\ShortcutView.ui
+2016-12-31 10:45:51 ....A         7436               mgba-0.5.2\src\platform\qt\TileView.ui
+2016-12-31 10:45:51 ....A        15315               mgba-0.5.2\src\platform\qt\VideoView.ui
+2016-12-31 10:45:51 ....A         4093               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\Makefile.unx
+2016-12-31 10:45:51 ....A         3692               mgba-0.5.2\src\third-party\libpng\scripts\makefile.vcwin32
+2016-12-31 10:45:51 ....A        12302               mgba-0.5.2\src\third-party\libpng\projects\vstudio\libpng\libpng.vcxproj
+2016-12-31 10:45:51 ....A        18969               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\miniunz.vcxproj
+2016-12-31 10:45:51 ....A        19150               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\miniunz.vcxproj
+2016-12-31 10:45:51 ....A        18549               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\minizip.vcxproj
+2016-12-31 10:45:51 ....A        18730               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\minizip.vcxproj
+2016-12-31 10:45:51 ....A         2713               mgba-0.5.2\src\third-party\libpng\projects\vstudio\pnglibconf\pnglibconf.vcxproj
+2016-12-31 10:45:51 ....A        16428               mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngstest\pngstest.vcxproj
+2016-12-31 10:45:51 ....A        11692               mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngtest\pngtest.vcxproj
+2016-12-31 10:45:51 ....A        11776               mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngunknown\pngunknown.vcxproj
+2016-12-31 10:45:51 ....A        11598               mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngvalid\pngvalid.vcxproj
+2016-12-31 10:45:51 ....A        27312               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\testzlib.vcxproj
+2016-12-31 10:45:51 ....A        27583               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\testzlib.vcxproj
+2016-12-31 10:45:51 ....A        19022               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\testzlibdll.vcxproj
+2016-12-31 10:45:51 ....A        19203               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\testzlibdll.vcxproj
+2016-12-31 10:45:51 ....A         8457               mgba-0.5.2\src\third-party\libpng\projects\vstudio\zlib\zlib.vcxproj
+2016-12-31 10:45:51 ....A        27927               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\zlibstat.vcxproj
+2016-12-31 10:45:51 ....A        28012               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\zlibstat.vcxproj
+2016-12-31 10:45:51 ....A        40243               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.vcxproj
+2016-12-31 10:45:51 ....A        42016               mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11\zlibvc.vcxproj
+2016-12-31 10:45:51 ....A         1951               mgba-0.5.2\src\platform\psp2\CMakeToolchain.vitasdk
+2016-12-31 10:45:51 ....A         2177               mgba-0.5.2\res\shaders\xbr.shader\xbr.vs
+2016-12-31 10:45:51 ....A         3357               mgba-0.5.2\src\third-party\libpng\contrib\gregbook\Makefile.w32
+2016-12-31 10:45:51 ....A          972               mgba-0.5.2\src\third-party\libpng\projects\owatcom\libpng.wpj
+2016-12-31 10:45:51 ....A          223               mgba-0.5.2\.travis.yml
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\tools\debian\source
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\tools\debian
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\tools
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src\util\vfs
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src\util\gui
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src\util
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src\third-party\zlib\win32
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src\third-party\zlib\watcom
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src\third-party\zlib\test
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\qnx
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\old\os2
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\old
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\nintendods
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\msdos
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\examples
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\doc
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc9
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc11
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\vstudio\vc10
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\vstudio
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\untgz
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\testzlib
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\puff
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\pascal
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\minizip
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\masmx86
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\masmx64
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\iostream3
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\iostream2
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\iostream
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\inflate86
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\infback9
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\gcc_gvmat64
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\dotzlib\DotZLib
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\dotzlib
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\delphi
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\blast
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\asm686
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\amd64
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib\ada
+2017-05-03 10:28:57 D....            0            0  mgba-0.5.2\src\third-party\zlib\contrib
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\zlib\as400
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\zlib\amiga
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src\third-party\zlib
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\lzma\Util\SfxSetup
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\lzma\Util\LzmaLib
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\lzma\Util\Lzma
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\lzma\Util\7z
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\lzma\Util
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\lzma
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\libpng\tests
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\libpng\scripts
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio\zlib
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngvalid
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngunknown
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngtest
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio\pngstest
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio\pnglibconf
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio\libpng
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\vstudio
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\visualc71
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects\owatcom
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\projects
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\visupng
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\tools
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\pngsuite
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\pngminus
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\pngminim\preader
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\pngminim\encoder
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\pngminim\decoder
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\pngminim
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\libtests
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\gregbook
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\examples
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\conftest
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib\arm-neon
+2017-05-03 10:28:55 D....            0            0  mgba-0.5.2\src\third-party\libpng\contrib
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\third-party\libpng\arm
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party\libpng
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\third-party\inih
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\third-party\blip_buf
+2017-05-03 10:28:56 D....            0            0  mgba-0.5.2\src\third-party
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\platform\windows
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\platform\wii
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\platform\test
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\platform\sdl
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\platform\qt\ts
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\platform\qt
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\psp2
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\posix
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\opengl
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\openemu
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\libretro
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\example\client-server
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\example
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\platform\3ds
+2017-05-03 10:28:54 D....            0            0  mgba-0.5.2\src\platform
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\lr35902\debugger
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\lr35902
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\gba\sio
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\gba\rr
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\gba\renderers
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\gba\extra
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\gba\cheats
+2017-05-03 10:28:53 D....            0            0  mgba-0.5.2\src\gba
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\gb\renderers
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\gb
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\feature\imagemagick
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\feature\gui
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\feature\ffmpeg
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\feature
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\debugger
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\core
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\arm\debugger
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\src\arm
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2\src
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\res\shaders\xbr.shader
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\res\shaders\pixelate.shader
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\res\shaders\ags001.shader
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\res\shaders\agb001.shader
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\res\shaders
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\res
+2017-05-03 10:28:52 D....            0            0  mgba-0.5.2\doc
+2017-05-03 10:28:58 D....            0            0  mgba-0.5.2
+------------------- ----- ------------ ------------  ------------------------
+2017-05-03 10:28:58           16628459      4109912  1145 files, 124 folders

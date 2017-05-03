@@ -1,0 +1,77 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 11:16:52 ....A        32892     12486814  CHANGES
+2016-12-31 11:21:20 ....A        16726               LICENSE
+2016-12-31 11:19:40 ....A     14891788               mGBA.app\Contents\MacOS\mGBA
+2016-12-31 11:19:40 ....A      6250084               mGBA.app\Contents\Frameworks\QtCore.framework\Versions\5\QtCore
+2016-12-31 11:19:40 ....A      5927764               mGBA.app\Contents\Frameworks\QtGui.framework\Versions\5\QtGui
+2016-12-31 11:19:40 ....A       983508               mGBA.app\Contents\Frameworks\QtMultimedia.framework\Versions\5\QtMultimedia
+2016-12-31 11:19:40 ....A      1571900               mGBA.app\Contents\Frameworks\QtNetwork.framework\Versions\5\QtNetwork
+2016-12-31 11:19:40 ....A       417900               mGBA.app\Contents\Frameworks\QtOpenGL.framework\Versions\5\QtOpenGL
+2016-12-31 11:19:40 ....A       372888               mGBA.app\Contents\Frameworks\QtPrintSupport.framework\Versions\5\QtPrintSupport
+2016-12-31 11:19:40 ....A      7090108               mGBA.app\Contents\Frameworks\QtWidgets.framework\Versions\5\QtWidgets
+2016-12-31 11:21:20 ....A         8041               README.html
+2015-12-19 07:25:11 ....A          177               mGBA.app\Contents\Resources\shaders\agb001.shader\manifest.ini
+2015-12-19 07:25:11 ....A          540               mGBA.app\Contents\Resources\shaders\ags001.shader\manifest.ini
+2016-01-23 11:35:50 ....A          139               mGBA.app\Contents\Resources\shaders\pixelate.shader\manifest.ini
+2016-01-24 13:14:20 ....A          544               mGBA.app\Contents\Resources\shaders\xbr.shader\manifest.ini
+2014-12-29 11:08:04 ....A        26940               third-party\LICENSE.blip-buf
+2016-12-31 11:19:40 ....A           26               mGBA.app\Contents\Resources\qt.conf
+2016-07-18 04:15:09 ....A      1767557               mGBA.app\Contents\Resources\nointro.dat
+2016-12-31 11:19:40 ....A      1054604               mGBA.app\Contents\Frameworks\libqcocoa.dylib
+2016-12-31 11:19:40 ....A      1054604               mGBA.app\Contents\PlugIns\platforms\libqcocoa.dylib
+2016-12-31 11:19:40 ....A       120676               mGBA.app\Contents\Frameworks\libqtaudio_coreaudio.dylib
+2016-12-31 11:19:40 ....A       120676               mGBA.app\Contents\PlugIns\audio\libqtaudio_coreaudio.dylib
+2014-12-29 11:08:04 ....A        18092               third-party\LICENSE.ffmpeg
+2016-07-18 04:15:09 ....A          701               mGBA.app\Contents\Resources\shaders\agb001.shader\agb001.fs
+2016-02-21 08:56:37 ....A          846               mGBA.app\Contents\Resources\shaders\ags001.shader\ags001-light.fs
+2016-07-18 04:15:09 ....A          654               mGBA.app\Contents\Resources\shaders\ags001.shader\ags001.fs
+2016-07-18 04:15:09 ....A         8992               mGBA.app\Contents\Resources\shaders\xbr.shader\xbr.fs
+2016-12-31 11:17:38 ....A      1130692               mGBA.app\Contents\Resources\mgba.icns
+2014-12-29 11:08:04 ....A        12446               third-party\LICENSE.imagemagick
+2014-12-29 11:08:04 ....A         1569               third-party\LICENSE.inih
+2014-12-29 11:08:04 ....A        25284               third-party\LICENSE.lame
+2014-12-29 11:08:04 ....A         1537               third-party\LICENSE.libvpx
+2014-12-29 11:08:04 ....A         1928               third-party\LICENSE.opus
+2016-12-31 11:16:55 ....A         1324               mGBA.app\Contents\Info.plist
+2014-12-29 11:08:04 ....A        26530               third-party\LICENSE.qt5
+2014-12-29 11:08:04 ....A          930               third-party\LICENSE.sdl2
+2016-07-18 04:15:09 ....A         2177               mGBA.app\Contents\Resources\shaders\xbr.shader\xbr.vs
+2014-12-29 11:08:04 ....A        17992               third-party\LICENSE.x264
+2017-05-03 10:30:06 D....            0            0  third-party
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Resources\shaders\xbr.shader
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Resources\shaders\pixelate.shader
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Resources\shaders\ags001.shader
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Resources\shaders\agb001.shader
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Resources\shaders
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Resources
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\PlugIns\platforms
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\PlugIns\audio
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\PlugIns
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\MacOS
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtWidgets.framework\Versions\5
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtWidgets.framework\Versions
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtWidgets.framework
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtPrintSupport.framework\Versions\5
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtPrintSupport.framework\Versions
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtPrintSupport.framework
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtOpenGL.framework\Versions\5
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtOpenGL.framework\Versions
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtOpenGL.framework
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtNetwork.framework\Versions\5
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtNetwork.framework\Versions
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtNetwork.framework
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtMultimedia.framework\Versions\5
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtMultimedia.framework\Versions
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtMultimedia.framework
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtGui.framework\Versions\5
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtGui.framework\Versions
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtGui.framework
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtCore.framework\Versions\5
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtCore.framework\Versions
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks\QtCore.framework
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents\Frameworks
+2017-05-03 10:30:06 D....            0            0  mGBA.app\Contents
+2017-05-03 10:30:06 D....            0            0  mGBA.app
+------------------- ----- ------------ ------------  ------------------------
+2017-05-03 10:30:06           42961776     12486814  38 files, 35 folders
